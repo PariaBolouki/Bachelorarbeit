@@ -1,0 +1,2198 @@
+{
+  "titel": "Extraktion aus OWL-Ontologie",
+  "ontologie": "clyh",
+  "anzahl": {
+    "klassen": 265,
+    "objekt_properties": 5,
+    "daten_properties": 0,
+    "annotation_properties": 4,
+    "individuals": 0
+  },
+  "klassen": [
+    {
+      "symbol": "CLYH_0000001",
+      "label": [
+        "gametogenesis"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "UBERON_0000105",
+      "label": [
+        "life cycle stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000002",
+      "label": [
+        "gametogenesis period"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000003",
+      "label": [
+        "oogenesis period"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000004",
+      "label": [
+        "previtellogenic stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000005",
+      "label": [
+        "oocyte growth period"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000006",
+      "label": [
+        "stage I oocyte growth stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000007",
+      "label": [
+        "stage II oocyte growth stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000008",
+      "label": [
+        "stage III oocyte growth stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000009",
+      "label": [
+        "oocyte meiotic maturation"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000010",
+      "label": [
+        "spermatogenesis period"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000011",
+      "label": [
+        "spermatogonium stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000012",
+      "label": [
+        "spermatid stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000013",
+      "label": [
+        "embryonic development"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000014",
+      "label": [
+        "gamete period"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000015",
+      "label": [
+        "unfertilized egg stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000016",
+      "label": [
+        "spermatozoid stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000017",
+      "label": [
+        "cleavage period"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000018",
+      "label": [
+        "one cell stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000019",
+      "label": [
+        "2-cell stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000020",
+      "label": [
+        "4-cell stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000021",
+      "label": [
+        "8-cell stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000022",
+      "label": [
+        "16-cell stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000023",
+      "label": [
+        "32-cell stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000024",
+      "label": [
+        "64-cell stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000025",
+      "label": [
+        "blastula period"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000026",
+      "label": [
+        "early blastula stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000027",
+      "label": [
+        "mid blastula stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000028",
+      "label": [
+        "late blastula stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000029",
+      "label": [
+        "gastrula period"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000030",
+      "label": [
+        "very early gastrula stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000031",
+      "label": [
+        "early gastrula stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000032",
+      "label": [
+        "mid gastrula stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000033",
+      "label": [
+        "late gastrula stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000034",
+      "label": [
+        "planula period"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000035",
+      "label": [
+        "planula P1 stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000036",
+      "label": [
+        "planula P2 stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000037",
+      "label": [
+        "planula P3 stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000038",
+      "label": [
+        "aged planula stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000040",
+      "label": [
+        "metamorphosis period"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000041",
+      "label": [
+        "settled planula stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000042",
+      "label": [
+        "blob stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000043",
+      "label": [
+        "disc stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000044",
+      "label": [
+        "sculpted disc stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000045",
+      "label": [
+        "primary polyp stalk extension stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000046",
+      "label": [
+        "primary polyp developing head stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000047",
+      "label": [
+        "functional primary polyp stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000049",
+      "label": [
+        "colony phase"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000050",
+      "label": [
+        "gastrozoid development"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000051",
+      "label": [
+        "stalk extenstion stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000052",
+      "label": [
+        "developing head stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000053",
+      "label": [
+        "functional gastrozoid stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000054",
+      "label": [
+        "gonozoid development"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000055",
+      "label": [
+        "growing gonozoid stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000056",
+      "label": [
+        "budding gonozoid stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000057",
+      "label": [
+        "non-budding gonozoid stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000059",
+      "label": [
+        "medusa phase"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000060",
+      "label": [
+        "medusa budding"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000061",
+      "label": [
+        "early medusa bud stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000062",
+      "label": [
+        "mid medusa bud stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000063",
+      "label": [
+        "late medusa bud stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000064",
+      "label": [
+        "medusa growth"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000065",
+      "label": [
+        "4-bulb medusa stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000066",
+      "label": [
+        "8-bulb medusa stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000067",
+      "label": [
+        "12-bulb medusa stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000068",
+      "label": [
+        "16-bulb immature medusa stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_0000069",
+      "label": [
+        "mature adult medusa stage"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000001",
+      "label": [
+        "multicellular organism"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000002",
+      "label": [
+        "organism subdivision"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000003",
+      "label": [
+        "mouth"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "UBERON_0000061",
+      "label": [
+        "anatomical structure"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000004",
+      "label": [
+        "tentacle system"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000005",
+      "label": [
+        "tentacle"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000006",
+      "label": [
+        "tissue layer"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000007",
+      "label": [
+        "ectoderm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000008",
+      "label": [
+        "gastrula outer layer"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000035",
+      "label": [
+        "gastrula"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000074",
+      "label": [
+        "aboral pole of blastula"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000009",
+      "label": [
+        "oral gastrula outer layer"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000068",
+      "label": [
+        "oral pole of blastula"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000010",
+      "label": [
+        "aboral gastrula outer layer"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000011",
+      "label": [
+        "lateral gastrula outer layer"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000031",
+      "label": [
+        "blastula"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000012",
+      "label": [
+        "planula ectoderm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000040",
+      "label": [
+        "planula larva"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000013",
+      "label": [
+        "oral planula ectoderm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000014",
+      "label": [
+        "aboral planula ectoderm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000015",
+      "label": [
+        "endoderm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000016",
+      "label": [
+        "gastrula ingressing cells"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CL_0000000",
+      "label": [
+        "cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000017",
+      "label": [
+        "oral gastrula ingressing cells"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000018",
+      "label": [
+        "aboral gastrula ingressing cells"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000019",
+      "label": [
+        "planula endoderm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000020",
+      "label": [
+        "aboral planula endoderm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000021",
+      "label": [
+        "oral planula endoderm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000022",
+      "label": [
+        "fertilized egg"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000087",
+      "label": [
+        "gamete"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000023",
+      "label": [
+        "embryo"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000024",
+      "label": [
+        "cleaving embryo"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000025",
+      "label": [
+        "2-cell embryo"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000026",
+      "label": [
+        "4-cell embryo"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000027",
+      "label": [
+        "8-cell embryo"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000028",
+      "label": [
+        "16-cell embryo"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000029",
+      "label": [
+        "32-cell embryo"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000030",
+      "label": [
+        "64-cell embryo"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000032",
+      "label": [
+        "early blastula"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000033",
+      "label": [
+        "mid blastula"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000034",
+      "label": [
+        "late blasutla"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000036",
+      "label": [
+        "very early gastrula"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000037",
+      "label": [
+        "early gastrula"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000038",
+      "label": [
+        "mid gastrula"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000039",
+      "label": [
+        "late gastrula"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000041",
+      "label": [
+        "planula P1"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000042",
+      "label": [
+        "planula P2"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000043",
+      "label": [
+        "planula P3 "
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000044",
+      "label": [
+        "aged planula"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000045",
+      "label": [
+        "metamorphosing planula"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000046",
+      "label": [
+        "settled planula"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000047",
+      "label": [
+        "blob"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000048",
+      "label": [
+        "disc"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000049",
+      "label": [
+        "sculpted disc"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000050",
+      "label": [
+        "spindle-associated"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "GO_0005575",
+      "label": [
+        "cellular component"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000051",
+      "label": [
+        "animal cortex "
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "GO_0005938",
+      "label": [
+        "cell cortex"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000052",
+      "label": [
+        "animal cortex of oocyte"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000084",
+      "label": [
+        "oocyte"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000053",
+      "label": [
+        "animal cortex of egg cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000088",
+      "label": [
+        "egg cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000054",
+      "label": [
+        "vegetal cortex"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000055",
+      "label": [
+        "vegetal cortex of oocyte"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000056",
+      "label": [
+        "vegetal cortex of egg"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000057",
+      "label": [
+        "cytoplasm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000058",
+      "label": [
+        "animal cytoplasm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000059",
+      "label": [
+        "animal cytoplasm of oocyte"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000060",
+      "label": [
+        "animal cytoplasm of egg"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000061",
+      "label": [
+        "vegetal cytoplasm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000062",
+      "label": [
+        "vegetal cytoplasm of oocyte"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000063",
+      "label": [
+        "vegetal cytoplasm of egg"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000064",
+      "label": [
+        "oral territory"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000065",
+      "label": [
+        "oral pole of embryo"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000066",
+      "label": [
+        "oral pole of planula larva"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000067",
+      "label": [
+        "oral pole blastomeres"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000069",
+      "label": [
+        "oral pole of gastrula"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000070",
+      "label": [
+        "aboral territory "
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000071",
+      "label": [
+        "aboral pole of embryo"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000072",
+      "label": [
+        "aboral pole of planula larva"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000073",
+      "label": [
+        "aboral pole blastomeres"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000075",
+      "label": [
+        "aboral pole of gastrula"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000076",
+      "label": [
+        "blastomere"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000077",
+      "label": [
+        "germ cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000192",
+      "label": [
+        "gonad"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000160",
+      "label": [
+        "medusa"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000078",
+      "label": [
+        "male germ cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000079",
+      "label": [
+        "spermatogonium"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000095",
+      "label": [
+        "interstitial cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000080",
+      "label": [
+        "spermatid"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000081",
+      "label": [
+        "spermatozoid"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000082",
+      "label": [
+        "female germ cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000083",
+      "label": [
+        "oogonium"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000085",
+      "label": [
+        "growing oocyte"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000086",
+      "label": [
+        "fully grown oocyte"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000089",
+      "label": [
+        "blastocoel roof cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000090",
+      "label": [
+        "gland cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000091",
+      "label": [
+        "planula aboral gland cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000092",
+      "label": [
+        "planula gland cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000093",
+      "label": [
+        "manubrium gland cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000187",
+      "label": [
+        "manubrium"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000140",
+      "label": [
+        "medusa bud"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000094",
+      "label": [
+        "gastrozoid gland cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000150",
+      "label": [
+        "gastrozoid"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000096",
+      "label": [
+        "stolon interstitial cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000128",
+      "label": [
+        "stolon"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000097",
+      "label": [
+        "embryo interstitial cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000098",
+      "label": [
+        "planula interstitial cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000099",
+      "label": [
+        "gastrozoid interstitial cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000100",
+      "label": [
+        "gonozoid interstitial cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000134",
+      "label": [
+        "gonozoid"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000127",
+      "label": [
+        "polyp colony"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000101",
+      "label": [
+        "manubrium interstital cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000102",
+      "label": [
+        "nematoblast"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000103",
+      "label": [
+        "stolon nematoblast"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000104",
+      "label": [
+        "planula nematoblast"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000105",
+      "label": [
+        "tentacle bulb nemtoblast"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000171",
+      "label": [
+        "nematogenic ectoderm of the bulb"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000106",
+      "label": [
+        "manubrium nematoblast"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000107",
+      "label": [
+        "nematocyte"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000108",
+      "label": [
+        "planula nematocyte"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000109",
+      "label": [
+        "medusa tentacle nematocyte"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000174",
+      "label": [
+        "medusa tentacle"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000110",
+      "label": [
+        "manubrium nematocyte"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000111",
+      "label": [
+        "gastrozoid tentacle nematocyte"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000151",
+      "label": [
+        "gastrozoid tentacle"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000112",
+      "label": [
+        "neural cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000113",
+      "label": [
+        "planula neural cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000114",
+      "label": [
+        "planula lateral neural cells"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000115",
+      "label": [
+        "plaunula aboral ectoderm neural cells"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000116",
+      "label": [
+        "nerve cell of the radial canal"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000182",
+      "label": [
+        "radial canal"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000117",
+      "label": [
+        "nerve cell of the circular canal"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000183",
+      "label": [
+        "circular canal"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000118",
+      "label": [
+        "nerve cells of the gonad ectoderm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000119",
+      "label": [
+        "nerve cell of the tentacle bulb"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000170",
+      "label": [
+        "medusa tentacle bulb"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000120",
+      "label": [
+        "subumbrella nervous cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000163",
+      "label": [
+        "subumbrella"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000121",
+      "label": [
+        "smooth muscle cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000122",
+      "label": [
+        "smooth muscle of the velum"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000179",
+      "label": [
+        "velum"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000123",
+      "label": [
+        "subumbrella smooth muscle"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000124",
+      "label": [
+        "striated muscle cell"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000125",
+      "label": [
+        "striated muscle of the velum"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000126",
+      "label": [
+        "subumbrella striated muscle"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000129",
+      "label": [
+        "stolon growth tip"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000130",
+      "label": [
+        "stolon mesoglea"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000158",
+      "label": [
+        "mesoglea"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000131",
+      "label": [
+        "stolon body"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000132",
+      "label": [
+        "stolon ectoderm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000133",
+      "label": [
+        "stolon endoderm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000135",
+      "label": [
+        "gonozoid cap"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000136",
+      "label": [
+        "gonozoid central tube"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000137",
+      "label": [
+        "gonozoid ectoderm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000138",
+      "label": [
+        "gonozoid endoderm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000139",
+      "label": [
+        "epithelium covering buds"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000141",
+      "label": [
+        "early medusa bud"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000142",
+      "label": [
+        "mid medusa bud"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000143",
+      "label": [
+        "late medusa bud"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000144",
+      "label": [
+        "entocodon"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000145",
+      "label": [
+        "developing manubrium"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000146",
+      "label": [
+        "developing tentacle bulbs"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000168",
+      "label": [
+        "medusa tentacle system"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000147",
+      "label": [
+        "developing radial canal"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000148",
+      "label": [
+        "developing striated muscle"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000149",
+      "label": [
+        "developing circular canal"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000152",
+      "label": [
+        "gastrozoid mouth"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000153",
+      "label": [
+        "matrix"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000154",
+      "label": [
+        "theca"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000155",
+      "label": [
+        "gonotheca"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000156",
+      "label": [
+        "stolon perisarc"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000157",
+      "label": [
+        "hydrotheca"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000159",
+      "label": [
+        "gonozoid mesoglea"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000161",
+      "label": [
+        "umbrella"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000162",
+      "label": [
+        "exumbrella"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000164",
+      "label": [
+        "subumbrella endodermal plate"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000165",
+      "label": [
+        "thick mesoglea layer of the umbrella"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000166",
+      "label": [
+        "bell margin"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000167",
+      "label": [
+        "statocyst"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000169",
+      "label": [
+        "medusa tentacle bud"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000172",
+      "label": [
+        "non-nematogenic ectoderm of the bulb"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000173",
+      "label": [
+        "tentacle bulb endoderm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000175",
+      "label": [
+        "primary medusa tentacle"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000176",
+      "label": [
+        "secondary medusa tentacle"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000177",
+      "label": [
+        "medusa tentacle ectoderm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000178",
+      "label": [
+        "medusa tentacle endoderm "
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000180",
+      "label": [
+        "inner layer of the velum"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000181",
+      "label": [
+        "outerlater of the velum"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000184",
+      "label": [
+        "nerve ring"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000185",
+      "label": [
+        "inner nerve ring"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000186",
+      "label": [
+        "outer nerve ring"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000188",
+      "label": [
+        "medusa mouth"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000189",
+      "label": [
+        "manubrium roof"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000190",
+      "label": [
+        "manubrium ectoderm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000191",
+      "label": [
+        "manubrium endoderm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000193",
+      "label": [
+        "gonad ectoderm"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CLYH_1000194",
+      "label": [
+        "gonad endoderm"
+      ],
+      "comment": [],
+      "definition": []
+    }
+  ],
+  "objekt_properties": [
+    {
+      "name": "BFO_0000050",
+      "label": [
+        "part of"
+      ],
+      "comment": []
+    },
+    {
+      "name": "RO_0002087",
+      "label": [
+        "immediately preceded by"
+      ],
+      "comment": []
+    },
+    {
+      "name": "RO_0002202",
+      "label": [
+        "develops from"
+      ],
+      "comment": []
+    },
+    {
+      "name": "RO_0002488",
+      "label": [
+        "existence starts during"
+      ],
+      "comment": []
+    },
+    {
+      "name": "RO_0002492",
+      "label": [
+        "existence ends during"
+      ],
+      "comment": []
+    }
+  ],
+  "daten_properties": [],
+  "annotation_properties": [
+    {
+      "name": "IAO_0000115",
+      "label": [
+        "definition"
+      ],
+      "comment": []
+    },
+    {
+      "name": "IAO_0000301",
+      "label": [
+        "citation"
+      ],
+      "comment": []
+    },
+    {
+      "name": "DbXref",
+      "label": [],
+      "comment": []
+    },
+    {
+      "name": "hasExactSynonym",
+      "label": [],
+      "comment": []
+    }
+  ],
+  "individuals": []
+}

@@ -10,9 +10,9 @@ ontology_path = Path("ontologies") / filename
 onto = get_ontology(str(ontology_path)).load()
 ontology_name = ontology_path.stem
 
-output_dir = Path("output")
+output_dir = Path("results")
 output_dir.mkdir(exist_ok=True)
-output_file = output_dir / f"{ontology_name}.json"
+output_file = output_dir / f"{ontology_name}_symbolnames.json"
 
 annotation_properties = [
     prop for prop in onto.properties()

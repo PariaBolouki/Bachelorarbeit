@@ -1,0 +1,1059 @@
+{
+  "titel": "Extraktion aus OWL-Ontologie",
+  "ontologie": "pizza",
+  "anzahl": {
+    "klassen": 99,
+    "objekt_properties": 8,
+    "daten_properties": 0,
+    "annotation_properties": 8,
+    "individuals": 5
+  },
+  "klassen": [
+    {
+      "symbol": "Pizza",
+      "label": [
+        "Pizza"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "PizzaBase",
+      "label": [
+        "BaseDaPizza",
+        "PizzaBase"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "Food",
+      "label": [
+        "Food"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "Spiciness",
+      "label": [
+        "Spiciness",
+        "Tempero"
+      ],
+      "comment": [
+        "A ValuePartition that describes only values from Hot, Medium or Mild. NB Subclasses can themselves be divided up into further partitions."
+      ],
+      "definition": []
+    },
+    {
+      "symbol": "PizzaTopping",
+      "label": [
+        "CoberturaDaPizza",
+        "PizzaTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "American",
+      "label": [
+        "American",
+        "Americana"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "NamedPizza",
+      "label": [
+        "PizzaComUmNome"
+      ],
+      "comment": [
+        "A pizza that can be found on a pizza menu"
+      ],
+      "definition": []
+    },
+    {
+      "symbol": "MozzarellaTopping",
+      "label": [
+        "CoberturaDeMozzarella",
+        "MozzarellaTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "PeperoniSausageTopping",
+      "label": [
+        "CoberturaDeCalabreza",
+        "PeperoniSausageTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "TomatoTopping",
+      "label": [
+        "CoberturaDeTomate",
+        "TomatoTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "AmericanHot",
+      "label": [
+        "AmericanHot",
+        "AmericanaPicante"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "HotGreenPepperTopping",
+      "label": [
+        "CoberturaDePimentaoVerdePicante",
+        "HotGreenPepperTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "JalapenoPepperTopping",
+      "label": [
+        "CoberturaDeJalapeno",
+        "JalapenoPepperTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "AnchoviesTopping",
+      "label": [
+        "AnchoviesTopping",
+        "CoberturaDeAnchovies"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "FishTopping",
+      "label": [
+        "CoberturaDePeixe",
+        "SeafoodTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "ArtichokeTopping",
+      "label": [
+        "ArtichokeTopping",
+        "CoberturaDeArtichoke"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "VegetableTopping",
+      "label": [
+        "CoberturaDeVegetais",
+        "VegetableTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "Mild",
+      "label": [
+        "Mild",
+        "NaoPicante"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "AsparagusTopping",
+      "label": [
+        "AsparagusTopping",
+        "CoberturaDeAspargos"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "Cajun",
+      "label": [
+        "Cajun",
+        "Cajun"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "OnionTopping",
+      "label": [
+        "CoberturaDeCebola",
+        "OnionTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "PeperonataTopping",
+      "label": [
+        "CoberturaPeperonata",
+        "PeperonataTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "PrawnsTopping",
+      "label": [
+        "CoberturaDeCamarao",
+        "PrawnsTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "TobascoPepperSauce",
+      "label": [
+        "MolhoTobascoPepper",
+        "TobascoPepperSauceTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CajunSpiceTopping",
+      "label": [
+        "CajunSpiceTopping",
+        "CoberturaDeCajun"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "HerbSpiceTopping",
+      "label": [
+        "CoberturaDeErvas",
+        "HerbSpiceTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "Hot",
+      "label": [
+        "Hot",
+        "Picante"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "RosemaryTopping",
+      "label": [
+        "CoberturaRosemary",
+        "RosemaryTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CaperTopping",
+      "label": [
+        "CaperTopping",
+        "CoberturaDeCaper"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "Capricciosa",
+      "label": [
+        "Capricciosa",
+        "Capricciosa"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "HamTopping",
+      "label": [
+        "CoberturaDePresunto",
+        "HamTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "OliveTopping",
+      "label": [
+        "CoberturaDeAzeitona",
+        "OliveTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "Caprina",
+      "label": [
+        "Caprina",
+        "Caprina"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "GoatsCheeseTopping",
+      "label": [
+        "CoberturaDeQueijoDeCabra",
+        "GoatsCheeseTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "SundriedTomatoTopping",
+      "label": [
+        "CoberturaDeTomateRessecadoAoSol",
+        "SundriedTomatoTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CheeseTopping",
+      "label": [
+        "CheeseTopping",
+        "CoberturaDeQueijo"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "CheeseyPizza",
+      "label": [
+        "CheesyPizza",
+        "PizzaComQueijo"
+      ],
+      "comment": [],
+      "definition": [
+        "Any pizza that has at least 1 cheese topping."
+      ]
+    },
+    {
+      "symbol": "CheeseyVegetableTopping",
+      "label": [
+        "CheesyVegetableTopping",
+        "CoberturaDeQueijoComVegetais"
+      ],
+      "comment": [
+        "This class will be unsatisfiable. This is because we have given it 2 disjoint parents, which means it could never have any instances (as nothing can be both a CheeseTopping and a VegetableTopping). NB Called ProbeInconsistentTopping in the ProtegeOWL Tutorial."
+      ],
+      "definition": []
+    },
+    {
+      "symbol": "ChickenTopping",
+      "label": [
+        "ChickenTopping",
+        "CoberturaDeFrango"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "MeatTopping",
+      "label": [
+        "CoberturaDeCarne",
+        "MeatTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "Country",
+      "label": [
+        "Country",
+        "Pais"
+      ],
+      "comment": [
+        "A class that is equivalent to the set of individuals that are described in the enumeration - ie Countries can only be either America, England, France, Germany or Italy and nothing else. Note that these individuals have been asserted to be allDifferent from each other."
+      ],
+      "definition": []
+    },
+    {
+      "symbol": "DomainConcept",
+      "label": [
+        "DomainThing"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "DeepPanBase",
+      "label": [
+        "BaseEspessa",
+        "DeepPanBase"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "ThinAndCrispyBase",
+      "label": [
+        "BaseFinaEQuebradica",
+        "ThinAndCrispyBase"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "ValuePartition",
+      "label": [
+        "ValorDaParticao",
+        "ValuePartition"
+      ],
+      "comment": [
+        "A ValuePartition is a pattern that describes a restricted set of classes from which a property can be associated. The parent class is used in restrictions, and the covering axiom means that only members of the subclasses may be used as values. The possible subclasses cannot be extended without updating the ValuePartition class."
+      ],
+      "definition": []
+    },
+    {
+      "symbol": "Fiorentina",
+      "label": [
+        "Fiorentina",
+        "Fiorentina"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "GarlicTopping",
+      "label": [
+        "CoberturaDeAlho",
+        "GarlicTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "ParmesanTopping",
+      "label": [
+        "CoberturaDeParmesao",
+        "ParmezanTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "SpinachTopping",
+      "label": [
+        "CoberturaDeEspinafre",
+        "SpinachTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "FourCheesesTopping",
+      "label": [
+        "CoberturaQuatroQueijos",
+        "FourCheesesTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "FourSeasons",
+      "label": [
+        "FourSeasons",
+        "QuatroQueijos"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "MushroomTopping",
+      "label": [
+        "CoberturaDeCogumelo",
+        "MushroomTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "FruitTopping",
+      "label": [
+        "CoberturaDeFrutas",
+        "FruitTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "FruttiDiMare",
+      "label": [
+        "FrutosDoMar",
+        "FruttiDiMare"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "MixedSeafoodTopping",
+      "label": [
+        "CoberturaDeFrutosDoMarMistos",
+        "MixedSeafoodTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "Medium",
+      "label": [
+        "Media",
+        "Medium"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "Giardiniera",
+      "label": [
+        "Giardiniera",
+        "Giardiniera"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "LeekTopping",
+      "label": [
+        "CoberturaDeLeek",
+        "LeekTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "PetitPoisTopping",
+      "label": [
+        "CoberturaPetitPois",
+        "PetitPoisTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "SlicedTomatoTopping",
+      "label": [
+        "CoberturaDeTomateFatiado",
+        "SlicedTomatoTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "GorgonzolaTopping",
+      "label": [
+        "CoberturaDeGorgonzola",
+        "GorgonzolaTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "GreenPepperTopping",
+      "label": [
+        "CoberturaDePimentaoVerde",
+        "GreenPepperTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "PepperTopping",
+      "label": [
+        "CoberturaDePimentao",
+        "PepperTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "HotSpicedBeefTopping",
+      "label": [
+        "CoberturaDeBifePicante",
+        "HotSpicedBeefTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "IceCream",
+      "label": [
+        "IceCream",
+        "Sorvete"
+      ],
+      "comment": [
+        "A class to demonstrate mistakes made with setting a property domain. The property hasTopping has a domain of Pizza. This means that the reasoner can infer that all individuals using the hasTopping property must be of type Pizza. Because of the restriction on this class, all members of IceCream must use the hasTopping property, and therefore must also be members of Pizza. However, Pizza and IceCream are disjoint, so this causes an inconsistency. If they were not disjoint, IceCream would be inferred to be a subclass of Pizza."
+      ],
+      "definition": []
+    },
+    {
+      "symbol": "InterestingPizza",
+      "label": [
+        "InterestingPizza",
+        "PizzaInteressante"
+      ],
+      "comment": [],
+      "definition": [
+        "Any pizza that has at least 3 toppings. Note that this is a cardinality constraint on the hasTopping property and NOT a qualified cardinality constraint (QCR). A QCR would specify from which class the members in this relationship must be. eg has at least 3 toppings from PizzaTopping. This is currently not supported in OWL."
+      ]
+    },
+    {
+      "symbol": "LaReine",
+      "label": [
+        "LaReine",
+        "LaReine"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "Margherita",
+      "label": [
+        "Margherita",
+        "Margherita"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "MeatyPizza",
+      "label": [
+        "MeatyPizza",
+        "PizzaDeCarne"
+      ],
+      "comment": [],
+      "definition": [
+        "Any pizza that has at least one meat topping"
+      ]
+    },
+    {
+      "symbol": "Mushroom",
+      "label": [
+        "Cogumelo",
+        "Mushroom"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "Napoletana",
+      "label": [
+        "Napoletana",
+        "Napoletana"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "NonVegetarianPizza",
+      "label": [
+        "NonVegetarianPizza",
+        "PizzaNaoVegetariana"
+      ],
+      "comment": [],
+      "definition": [
+        "Any Pizza that is not a VegetarianPizza"
+      ]
+    },
+    {
+      "symbol": "VegetarianPizza",
+      "label": [
+        "PizzaVegetariana",
+        "VegetarianPizza"
+      ],
+      "comment": [],
+      "definition": [
+        "Any pizza that does not have fish topping and does not have meat topping is a VegetarianPizza. Note that instances of this class do not need to have any toppings at all."
+      ]
+    },
+    {
+      "symbol": "NutTopping",
+      "label": [
+        "CoberturaDeCastanha",
+        "NutTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "ParmaHamTopping",
+      "label": [
+        "CoberturaDePrezuntoParma",
+        "ParmaHamTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "Parmense",
+      "label": [
+        "Parmense",
+        "Parmense"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "PineKernels",
+      "label": [
+        "CoberturaPineKernels",
+        "PineKernelTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "PolloAdAstra",
+      "label": [
+        "PolloAdAstra",
+        "PolloAdAstra"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "RedOnionTopping",
+      "label": [
+        "CoberturaDeCebolaVermelha",
+        "RedOnionTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "SweetPepperTopping",
+      "label": [
+        "CoberturaDePimentaoDoce",
+        "SweetPepperTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "PrinceCarlo",
+      "label": [
+        "CoberturaPrinceCarlo",
+        "PrinceCarlo"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "QuattroFormaggi",
+      "label": [
+        "QuatroQueijos",
+        "QuattroFormaggi"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "RealItalianPizza",
+      "label": [
+        "PizzaItalianaReal",
+        "RealItalianPizza"
+      ],
+      "comment": [],
+      "definition": [
+        "Any Pizza that has the country of origin, Italy.  RealItalianPizzas must also only have ThinAndCrispy bases."
+      ]
+    },
+    {
+      "symbol": "RocketTopping",
+      "label": [
+        "CoberturaRocket",
+        "RocketTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "Rosa",
+      "label": [
+        "Rosa",
+        "Rosa"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "SauceTopping",
+      "label": [
+        "CoberturaEmMolho",
+        "SauceTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "Siciliana",
+      "label": [
+        "Siciliana",
+        "Siciliana"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "SloppyGiuseppe",
+      "label": [
+        "SloppyGiuseppe",
+        "SloppyGiuseppe"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "Soho",
+      "label": [
+        "Soho",
+        "Soho"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "SpicyPizza",
+      "label": [
+        "PizzaTemperada",
+        "SpicyPizza"
+      ],
+      "comment": [],
+      "definition": [
+        "Any pizza that has a spicy topping is a SpicyPizza"
+      ]
+    },
+    {
+      "symbol": "SpicyTopping",
+      "label": [
+        "CoberturaTemperada",
+        "SpicyTopping"
+      ],
+      "comment": [],
+      "definition": [
+        "Any pizza topping that has spiciness Hot"
+      ]
+    },
+    {
+      "symbol": "SpicyPizzaEquivalent",
+      "label": [
+        "PizzaTemperadaEquivalente",
+        "SpicyPizzaEquivalent"
+      ],
+      "comment": [
+        "An alternative definition for the SpicyPizza which does away with needing a definition of SpicyTopping and uses a slightly more complicated restriction: Pizzas that have at least one topping that is both a PizzaTopping and has spiciness hot are members of this class."
+      ],
+      "definition": []
+    },
+    {
+      "symbol": "SultanaTopping",
+      "label": [
+        "CoberturaSultana",
+        "SultanaTopping"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "ThinAndCrispyPizza",
+      "label": [
+        "ThinAndCrispyPizza"
+      ],
+      "comment": [],
+      "definition": []
+    },
+    {
+      "symbol": "UnclosedPizza",
+      "label": [
+        "PizzaAberta",
+        "UnclosedPizza"
+      ],
+      "comment": [
+        "An unclosed Pizza cannot be inferred to be either a VegetarianPizza or a NonVegetarianPizza, because it might have other toppings."
+      ],
+      "definition": []
+    },
+    {
+      "symbol": "VegetarianPizzaEquivalent1",
+      "label": [
+        "PizzaVegetarianaEquivalente1",
+        "VegetarianPizza1"
+      ],
+      "comment": [
+        "Any pizza that only has vegetarian toppings or no toppings is a VegetarianPizzaEquiv1. Should be inferred to be equivalent to VegetarianPizzaEquiv2.  Not equivalent to VegetarianPizza because PizzaTopping is not covering"
+      ],
+      "definition": []
+    },
+    {
+      "symbol": "VegetarianTopping",
+      "label": [
+        "CoberturaVegetariana",
+        "VegetarianTopping"
+      ],
+      "comment": [
+        "An example of a covering axiom. VegetarianTopping is equivalent to the union of all toppings in the given axiom. VegetarianToppings can only be Cheese or Vegetable or....etc."
+      ],
+      "definition": []
+    },
+    {
+      "symbol": "VegetarianPizzaEquivalent2",
+      "label": [
+        "PizzaVegetarianaEquivalente2",
+        "VegetarianPizza2"
+      ],
+      "comment": [
+        "An alternative to VegetarianPizzaEquiv1 that does not require a definition of VegetarianTopping. Perhaps more difficult to maintain. Not equivalent to VegetarianPizza"
+      ],
+      "definition": []
+    },
+    {
+      "symbol": "Veneziana",
+      "label": [
+        "Veneziana",
+        "Veneziana"
+      ],
+      "comment": [],
+      "definition": []
+    }
+  ],
+  "objekt_properties": [
+    {
+      "name": "hasBase",
+      "label": [],
+      "comment": []
+    },
+    {
+      "name": "hasIngredient",
+      "label": [],
+      "comment": [
+        "NB Transitive - the ingredients of ingredients are ingredients of the whole"
+      ]
+    },
+    {
+      "name": "isBaseOf",
+      "label": [],
+      "comment": []
+    },
+    {
+      "name": "hasCountryOfOrigin",
+      "label": [],
+      "comment": []
+    },
+    {
+      "name": "isIngredientOf",
+      "label": [],
+      "comment": [
+        "The inverse property tree to hasIngredient - all subproperties and attributes of the properties should reflect those under hasIngredient."
+      ]
+    },
+    {
+      "name": "hasSpiciness",
+      "label": [],
+      "comment": [
+        "A property created to be used with the ValuePartition - Spiciness."
+      ]
+    },
+    {
+      "name": "hasTopping",
+      "label": [],
+      "comment": [
+        "Note that hasTopping is inverse functional because isToppingOf is functional"
+      ]
+    },
+    {
+      "name": "isToppingOf",
+      "label": [],
+      "comment": [
+        "Any given instance of topping should only be added to a single pizza (no cheap half-measures on our pizzas)"
+      ]
+    }
+  ],
+  "daten_properties": [],
+  "annotation_properties": [
+    {
+      "name": "description",
+      "label": [],
+      "comment": []
+    },
+    {
+      "name": "title",
+      "label": [],
+      "comment": []
+    },
+    {
+      "name": "contributor",
+      "label": [],
+      "comment": []
+    },
+    {
+      "name": "license",
+      "label": [],
+      "comment": []
+    },
+    {
+      "name": "provenance",
+      "label": [],
+      "comment": []
+    },
+    {
+      "name": "altLabel",
+      "label": [],
+      "comment": []
+    },
+    {
+      "name": "definition",
+      "label": [],
+      "comment": []
+    },
+    {
+      "name": "prefLabel",
+      "label": [],
+      "comment": []
+    }
+  ],
+  "individuals": [
+    {
+      "name": "America",
+      "label": [],
+      "comment": []
+    },
+    {
+      "name": "England",
+      "label": [],
+      "comment": []
+    },
+    {
+      "name": "France",
+      "label": [],
+      "comment": []
+    },
+    {
+      "name": "Germany",
+      "label": [],
+      "comment": []
+    },
+    {
+      "name": "Italy",
+      "label": [],
+      "comment": []
+    }
+  ]
+}
