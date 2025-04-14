@@ -1,0 +1,190 @@
+{
+  "ontologie": "gene",
+  "statistik": {
+    "klassen": 51641,
+    "objekt_properties": 4,
+    "daten_properties": 0,
+    "annotation_properties": 51,
+    "individuals": 0
+  },
+  "Verteilung von Annotationen": [
+    {
+      "annotation": "label",
+      "gesamt": 48020,
+      "typen": {
+        "Klasse": 47995,
+        "Objekt-Property": 4,
+        "Annotation-Property": 21
+      },
+      "durchschnittliche_wortanzahl": 4.82
+    },
+    {
+      "annotation": "IAO_0000115",
+      "gesamt": 47995,
+      "typen": {
+        "Klasse": 47995
+      },
+      "durchschnittliche_wortanzahl": 23.88
+    },
+    {
+      "annotation": "hasExactSynonym",
+      "gesamt": 25278,
+      "typen": {
+        "Klasse": 25278
+      },
+      "durchschnittliche_wortanzahl": 5.27
+    },
+    {
+      "annotation": "hasOBONamespace",
+      "gesamt": 48001,
+      "typen": {
+        "Klasse": 47995,
+        "Objekt-Property": 4,
+        "Annotation-Property": 2
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    },
+    {
+      "annotation": "id",
+      "gesamt": 48001,
+      "typen": {
+        "Klasse": 47995,
+        "Objekt-Property": 4,
+        "Annotation-Property": 2
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    },
+    {
+      "annotation": "inSubset",
+      "gesamt": 2295,
+      "typen": {
+        "Klasse": 2295
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    },
+    {
+      "annotation": "hasRelatedSynonym",
+      "gesamt": 9026,
+      "typen": {
+        "Klasse": 9026
+      },
+      "durchschnittliche_wortanzahl": 4.47
+    },
+    {
+      "annotation": "hasDbXref",
+      "gesamt": 8517,
+      "typen": {
+        "Klasse": 8511,
+        "Objekt-Property": 4,
+        "Annotation-Property": 2
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    },
+    {
+      "annotation": "comment",
+      "gesamt": 9995,
+      "typen": {
+        "Klasse": 9973,
+        "Annotation-Property": 22
+      },
+      "durchschnittliche_wortanzahl": 18.84
+    },
+    {
+      "annotation": "deprecated",
+      "gesamt": 11374,
+      "typen": {
+        "Klasse": 11374
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    },
+    {
+      "annotation": "IAO_0100001",
+      "gesamt": 5345,
+      "typen": {
+        "Klasse": 5345
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    },
+    {
+      "annotation": "hasAlternativeId",
+      "gesamt": 2436,
+      "typen": {
+        "Klasse": 2436
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    },
+    {
+      "annotation": "IAO_0000231",
+      "gesamt": 3646,
+      "typen": {
+        "Klasse": 3646
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    },
+    {
+      "annotation": "consider",
+      "gesamt": 1849,
+      "typen": {
+        "Klasse": 1849
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    },
+    {
+      "annotation": "hasNarrowSynonym",
+      "gesamt": 7781,
+      "typen": {
+        "Klasse": 7781
+      },
+      "durchschnittliche_wortanzahl": 5.68
+    },
+    {
+      "annotation": "hasBroadSynonym",
+      "gesamt": 2673,
+      "typen": {
+        "Klasse": 2673
+      },
+      "durchschnittliche_wortanzahl": 3.96
+    },
+    {
+      "annotation": "shorthand",
+      "gesamt": 6,
+      "typen": {
+        "Objekt-Property": 4,
+        "Annotation-Property": 2
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    },
+    {
+      "annotation": "propertyChainAxiom",
+      "gesamt": 1,
+      "typen": {
+        "Objekt-Property": 1
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    },
+    {
+      "annotation": "is_class_level",
+      "gesamt": 2,
+      "typen": {
+        "Annotation-Property": 2
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    },
+    {
+      "annotation": "is_metadata_tag",
+      "gesamt": 2,
+      "typen": {
+        "Annotation-Property": 2
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    },
+    {
+      "annotation": "hasScope",
+      "gesamt": 1,
+      "typen": {
+        "Annotation-Property": 1
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    }
+  ]
+}
