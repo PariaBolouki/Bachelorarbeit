@@ -1,0 +1,388 @@
+{
+    "Class:AEO_0000125": {
+        "text": "A structure whose morphology or state of differentiation will change during normal development.",
+        "keywords": [
+            "Structure",
+            "Morphology",
+            "Normal Development"
+        ]
+    },
+    "Class:AEO_0000131": {
+        "text": "Embronic structure that contains stem cellsr that may contribute to its future development or maintenance or to its future development or maintenance of another tissue.",
+        "keywords": [
+            "Embronic",
+            "Stem Cellsr",
+            "Future Development"
+        ]
+    },
+    "Class:AEO_0000211": {
+        "text": "The sum of all the anlagen and primordia that will develop into a single functional system.",
+        "keywords": [
+            "Anlagen",
+            "Primordia",
+            "Develop",
+            "Single Functional System"
+        ]
+    },
+    "Class:AEO_0001018": {
+        "text": "A transitional population of migrating mesenchymal cells that derive from somites and that will become muscle cells.",
+        "keywords": [
+            "Transitional Population",
+            "Mesenchymal Cells",
+            "Muscle Cells"
+        ]
+    },
+    "Class:AEO_0001009": {
+        "text": "An epithelium that is undergoing proliferation to provide large numbers of neuronal cells.",
+        "keywords": [
+            "Epithelium",
+            "Undergoing Proliferation",
+            "Neuronal Cells"
+        ]
+    },
+    "Class:AEO_0000212": {
+        "text": "The mesenchymal derivative of a somite that will migrate to surround the neural tube and form vertebrae.",
+        "keywords": [
+            "Mesenchymal Derivative",
+            "Neural Tube",
+            "Vertebrae"
+        ]
+    },
+    "Class:AEO_0000200": {
+        "text": "An anatomical structure that, as part of its normal physiology, undergoes regeneration. Examples include endometrium and antlers.",
+        "keywords": [
+            "Anatomical Structure",
+            "Regeneration",
+            "Endometrium",
+            "Antlers"
+        ]
+    },
+    "Class:CARO_0000029": {
+        "text": "Multi-cellular organism that can produce both male and female gametes.",
+        "keywords": [
+            "Multi-cellular organism",
+            "Male Gametes",
+            "Female Gametes"
+        ]
+    },
+    "Class:CARO_0000050": {
+        "text": "Sequential hermaphroditic organism that produces gametes first of the female sex, and then later of the male sex.",
+        "keywords": [
+            "Sequential Hermaphroditic Organism",
+            "Gametes"
+        ]
+    },
+    "Class:CARO_0000063": {
+        "text": "Multi-cellular organism that does not produce gametes.",
+        "keywords": [
+            "Multi-cellular Organism",
+            "Gametes"
+        ]
+    },
+    "Class:CARO_0000072": {
+        "text": "Compound organ that contains one or more macroscopic anatomical spaces.",
+        "keywords": [
+            "Compound Organ",
+            "Anatomical Spaces"
+        ]
+    },
+    "Class:AEO_0000193": {
+        "text": "Organ or organ part that is attached to the body of an organism. For example a limb[GO, modified]. An appendage is an external body part, or natural prolongation, that protrudes from an organism's body, such as a vertebrate's limbs.",
+        "keywords": [
+            "Organ",
+            "Appendage",
+            "Vertebrate's Limbs"
+        ]
+    },
+    "Class:CARO_0000040": {
+        "text": "Anatomical structure that consists of cell parts and cell substances and together does not constitute a cell or a tissue.",
+        "keywords": [
+            "Anatomical Structure",
+            "Cell Parts",
+            "Cell Substances",
+            "Tissue"
+        ]
+    },
+    "Class:AEO_0000090": {
+        "text": "A strap of predominantly extracellular matrix connecting two bones.",
+        "keywords": [
+            "Predominantly Extracellular Matrix",
+            "Two Bones"
+        ]
+    },
+    "Class:AEO_0000135": {
+        "text": "A group of neurons, usually outside the CNS, which relay neuronal signals.",
+        "keywords": [
+            "Neurons",
+            "Cns",
+            "Neuronal Signals"
+        ]
+    },
+    "Class:AEO_0000151": {
+        "text": "Mesenchyme whose cells are embedded in obvious amounts fo extracellular matrix.",
+        "keywords": [
+            "Mesenchyme",
+            "Extracellular Matrix"
+        ]
+    },
+    "Class:CARO_0000055": {
+        "text": "Anatomical structure that has as its parts two or more portions of tissue of at least two different types and which through specific morphogenetic processes forms a single distinct structural unit demarcated by bona-fide boundaries from other distinct structural units of different types.",
+        "keywords": [
+            "Anatomical Structure",
+            "Morphogenetic Processes",
+            "Bona-fide Boundaries"
+        ]
+    },
+    "Class:AEO_0000183": {
+        "text": "A joint connecting two or more bones with cartilage at the bone ends and a synovial membrane that secretes synovial fluid conecting the bones and sealing the synovial cavity.",
+        "keywords": [
+            "Joint",
+            "Cartilage",
+            "Synovial Membrane"
+        ]
+    },
+    "Class:AEO_0000199": {
+        "text": "A membranous structure with more than one cell type, one or more of which secretes mucus, that lines body passages which communicate with the exterior.",
+        "keywords": [
+            "Membranous Structure",
+            "Secretes Mucus",
+            "Exterior"
+        ]
+    },
+    "Class:AEO_0001006": {
+        "text": "Excreta are bodily fluids consisting of waste matter, such as sweat or feces, discharged from the body.",
+        "keywords": [
+            "Excreta",
+            "Bodily Fluids"
+        ]
+    },
+    "Class:CL_0000062": {
+        "text": "A bone-forming cell which secretes an extracellular matrix. Hydroxyapatite crystals are then deposited into the matrix to form bone.",
+        "keywords": [
+            "Bone-forming Cell",
+            "Extracellular Matrix",
+            "Hydroxyapatite Crystals"
+        ]
+    },
+    "Class:AEO_0000186": {
+        "text": "The cavity within the body that contains the visceral organs.",
+        "keywords": [
+            "Cavity",
+            "Visceral Organs"
+        ]
+    },
+    "Class:AEO_0000215": {
+        "text": "A volume that is mainly bounded but has an opening to another cavity or to the outside.",
+        "keywords": [
+            "Volume",
+            "Cavity"
+        ]
+    },
+    "Class:AEO_0000222": {
+        "text": "An anatomical space with no opening to another space or to the exterior.",
+        "keywords": [
+            "Anatomical Space",
+            "Exterior"
+        ]
+    },
+    "Class:CARO_0000008": {
+        "text": "Non-material anatomical entity of one dimension, which forms a boundary of an anatomical surface or is a modulation of an anatomical surface.",
+        "keywords": [
+            "Non-material Anatomical Entity",
+            "Anatomical Surface"
+        ]
+    },
+    "Class:CARO_0000010": {
+        "text": "Non-material anatomical entity of two dimensions, that is demarcated by anatomical lines or points on the external or internal surfaces of anatomical structures.",
+        "keywords": [
+            "Non-material Anatomical Entity",
+            "Anatomical Lines",
+            "Anatomical Structures"
+        ]
+    },
+    "Class:CL_0000000": {
+        "text": "Anatomical structure that has as its parts a maximally connected cell compartment surrounded by a plasma membrane.",
+        "keywords": [
+            "Anatomical Structure",
+            "Cell Compartment",
+            "Plasma Membrane"
+        ]
+    },
+    "Class:CL_0000066": {
+        "text": "A cell that is usually found in a two-dimensional sheet with a free surface. The cell has a cytoskeleton that allows for tight cell to cell contact and for cell polarity where apical part is directed towards the lumen and the basal part to the basal lamina.",
+        "keywords": [
+            "Two-dimensional Sheet",
+            "Cytoskeleton",
+            "Cell Polarity"
+        ]
+    },
+    "Class:CL_0000015": {
+        "text": "A germline cell that contributes to the development of the oocyte by transferring cytoplasm directly to oocyte.",
+        "keywords": [
+            "Germline Cell",
+            "Oocyte"
+        ]
+    },
+    "Class:CL_0000080": {
+        "text": "A cell which moves among different tissues of the body, via blood, lymph, or other medium.",
+        "keywords": [
+            "Tissues",
+            "Blood",
+            "Lymph"
+        ]
+    },
+    "Class:CL_0000737": {
+        "text": "Muscle cell which has as its direct parts myofilaments organized into sarcomeres.",
+        "keywords": [
+            "Muscle Cell",
+            "Sarcomeres",
+            "Myofilaments"
+        ]
+    },
+    "Class:CL_0000746": {
+        "text": "A myocyte located in the heart. The contractile fiber resembles those of skeletal muscle but are only one third as large in diameter, are richer in sarcoplasm, and contain centrally located instead of peripheral nuclei.",
+        "keywords": [
+            "Myocyte",
+            "Contractile Fiber",
+            "Sarcoplasm"
+        ]
+    },
+    "Class:CL_0000540": {
+        "text": "The basic cellular unit of nervous tissue. Each neuron consists of a body, an axon, and dendrites. Their purpose is to receive, conduct, and transmit impulses in the nervous system.",
+        "keywords": [
+            "Nervous Tissue",
+            "Body",
+            "Axon",
+            "Dendrites",
+            "Nervous System"
+        ]
+    },
+    "Class:CL_0000107": {
+        "text": "A neruon whose cell body is within an autonomic ganglion.",
+        "keywords": [
+            "Neruon",
+            "Autonomic Ganglion"
+        ]
+    },
+    "Class:CL_0000526": {
+        "text": "A neuron which conveys sensory information centrally from the periphery.",
+        "keywords": [
+            "Neuron",
+            "Sensory Information",
+            "Periphery"
+        ]
+    },
+    "Class:CL_0002371": {
+        "text": "A cell of an organism that does not pass on its genetic material to the organism's offspring (i.e. a non-germ line cell).",
+        "keywords": [
+            "Genetic Material",
+            "Non-germ Line Cell"
+        ]
+    },
+    "Class:CL_0000187": {
+        "text": "A mature contractile cell, commonly known as a myocyte. This cell has as part of its cytoplasm myofibrils organized in various patterns.",
+        "keywords": [
+            "Contractile Cell",
+            "Myocyte"
+        ]
+    },
+    "Class:CL_0002372": {
+        "text": "A myotube is a multinucleated cells that is formed when proliferating myoblasts exit the cell cycle, differentiate and fuse.",
+        "keywords": [
+            "Myotube",
+            "Multinucleated Cells",
+            "Myoblasts"
+        ]
+    },
+    "Class:CL_0000129": {
+        "text": "A central nervous system macrophage found in the parenchyma of the central nervous system. Marker include CD11b-positive, F4/80-positive, and CD68-positive.",
+        "keywords": [
+            "Central Nervous System",
+            "Macrophage",
+            "Cd11b-positive",
+            "F4/80-positive",
+            "Cd68-positive"
+        ]
+    },
+    "Class:CL_0002573": {
+        "text": "A glial cell that ensheathes axons of neuron in the peripheral nervous system and are necessary for their maintainance and function.",
+        "keywords": [
+            "Glial Cell",
+            "Peripheral Nervous System"
+        ]
+    },
+    "Class:CL_0002320": {
+        "text": "A cell of the supporting or framework tissue of the body, arising chiefly from the embryonic mesoderm and including adipose tissue, cartilage, and bone.",
+        "keywords": [
+            "Cell",
+            "Embryonic Mesoderm",
+            "Cartilage",
+            "Bone"
+        ]
+    },
+    "Class:CL_0000136": {
+        "text": "A fat-storing cell found mostly in the abdominal cavity and subcutaneous tissue of mammals. Fat is usually stored in the form of triglycerides.",
+        "keywords": [
+            "Fat-storing Cell",
+            "Mammals",
+            "Triglycerides"
+        ]
+    },
+    "Class:CL_0000667": {
+        "text": "An extracellular matrix secreting cell that secretes collagen.",
+        "keywords": [
+            "Extracellular Matrix",
+            "Collagen"
+        ]
+    },
+    "Class:CL_0000058": {
+        "text": "An immature cartilage-producing cell found in growing cartilage.",
+        "keywords": [
+            "Immature Cartilage-producing Cell",
+            "Growing Cartilage"
+        ]
+    },
+    "Class:CL_0000414": {
+        "text": "A classification of cells by the number of haploid genome equivalents of their nucleus or nuclei.",
+        "keywords": [
+            "Classification",
+            "Haploid Genome"
+        ]
+    },
+    "Class:CARO_0000000": {
+        "text": "Biological entity that is either an individual member of a biological species or constitutes the structural organization of an individual member of a biological species.",
+        "keywords": [
+            "Biological Entity",
+            "Structural Organization"
+        ]
+    },
+    "Class:CARO_0000005": {
+        "text": "Non-material anatomical entity of three dimensions, that is generated by morphogenetic or other physiologic processes; is surrounded by one or more anatomical structures; contains one or more organism substances or anatomical structures.",
+        "keywords": [
+            "Non-material Anatomical Entity",
+            "Morphogenetic",
+            "Physiologic Processes"
+        ]
+    },
+    "Class:AEO_0000079": {
+        "text": "A small cavity bounded by an epithelium.",
+        "keywords": [
+            "Small Cavity",
+            "Epithelium"
+        ]
+    },
+    "Class:CL_0000055": {
+        "text": "A precursor cell with a limited number of potential fates.",
+        "keywords": [
+            "Precursor Cell",
+            "Potential Fates"
+        ]
+    },
+    "Class:CL_0000165": {
+        "text": "An endocrine cell that has the specialized function to produce and secrete hormones in response to neuronal signals.",
+        "keywords": [
+            "Endocrine Cell",
+            "Neuronal Signals"
+        ]
+    }
+}
