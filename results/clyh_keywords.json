@@ -1,0 +1,1526 @@
+{
+  "Class:CLYH_0000002": {
+    "text": "phase of sexual reproduction in which certain cells of a female or male individual (parent) are transformed into specialized reproductive cells (gametes) that will initiate development of a progeny individual (offspring) upon fertilization.",
+    "keywords": [
+      "Sexual Reproduction",
+      "Gammetes"
+    ]
+  },
+  "Class:CLYH_0000004": {
+    "text": "Entered into meiosis, DNA replicated, no yolk accumulation.",
+    "keywords": [
+      "DNA Replication",
+      "Meiosis"
+    ]
+  },
+  "Class:CLYH_0000006": {
+    "text": "Meiotic Prophase I arrest, GV in centre, diameter x",
+    "keywords": [
+      "Meiotic Prophase I",
+      "Arrest",
+      "GV"
+    ]
+  },
+  "Class:CLYH_0000007": {
+    "text": "Meiotic Prophase I arrest, GV off centre, diameter x",
+    "keywords": [
+      "Meiotic Prophase I",
+      "Arrest",
+      "GV",
+      "diameter x"
+    ]
+  },
+  "Class:CLYH_0000008": {
+    "text": "Meiotic Prophase I arrest, GV off centre, diameter x",
+    "keywords": [
+      "Meiotic Prophase I",
+      "Arrest",
+      "GV",
+      "diameter x"
+    ]
+  },
+  "Class:CLYH_0000009": {
+    "text": "oocyte undergoing meiosis completion from prophase I to G0  of first meiotic cycle",
+    "keywords": [
+      "oocyte",
+      "meiosis",
+      "prophase I",
+      "G0"
+    ]
+  },
+  "Class:CLYH_0000015": {
+    "text": "matture female germ cell. not yet fertilized. Meiotic divisions complete. Spawned egg with female pronucleus.",
+    "keywords": [
+      "matture female germ cell",
+      "female pronucleus",
+      "fertilization"
+    ]
+  },
+  "Class:CLYH_0000016": {
+    "text": "mature male germ cell.",
+    "keywords": [
+      "mature male germ cell"
+    ]
+  },
+  "Class:CLYH_0000018": {
+    "text": "Zygote fertilized egg, zygote nucleus forms at animal pole (about 0-50 min post fertilization at 18 degree celsius).",
+    "keywords": [
+      "Zygote",
+      "Egg Fertilization",
+      "Animal Pole"
+    ]
+  },
+  "Class:CLYH_0000019": {
+    "text": "Two cell-stage embryo. First cleaveages unipolar and start at the animal pole (about 50-80 min post fertilization at 18 degree celsius).",
+    "keywords": [
+      "Two Cell-stage Embryo",
+      "Animal Pole"
+    ]
+  },
+  "Class:CLYH_0000020": {
+    "text": "Four cell-stage embryo. Second cleaveages unipolar and start at the animal pole (about 80-110 min post fertilization at 18 degree celsius).",
+    "keywords": [
+      "Cell-Stage Embryo",
+      "Animal Pole",
+      "Fertilization"
+    ]
+  },
+  "Class:CLYH_0000021": {
+    "text": "Eight cell-stage embryo (about 2h post fertilization at 18 degree celsius).",
+    "keywords": [
+      "Cell-stage embryo",
+      "Fertilization"
+    ]
+  },
+  "Class:CLYH_0000022": {
+    "text": "Sixteen cell-stage embryo (about 2.5h post fertilization at 18 degree celsius).",
+    "keywords": [
+      "Cell-stage Embryo",
+      "Fertilization"
+    ]
+  },
+  "Class:CLYH_0000023": {
+    "text": "thirty two cell-stage embryo (about 3h post fertilization at 18 degree celsius).",
+    "keywords": [
+      "Cell-stage Embryo",
+      "Fertilization"
+    ]
+  },
+  "Class:CLYH_0000024": {
+    "text": "sixty four cell-stage embryo (about 3h post fertilization at 18 degree celsius).",
+    "keywords": [
+      "Cell-stage embryo",
+      "Fertilization"
+    ]
+  },
+  "Class:CLYH_0000026": {
+    "text": "Cells rounded and loosely adhered, Nuclei central  (5-6h post fertilization at 18 degree celsius).",
+    "keywords": [
+      "Cells",
+      "Nuclei Central",
+      "Fertilization"
+    ]
+  },
+  "Class:CLYH_0000027": {
+    "text": "Cell contacts extended, cells polarised, nuclei apical (8h post fertilization at 18 degree celsius).",
+    "keywords": [
+      "Cell contacts",
+      "nuclei apical",
+      "fertilization"
+    ]
+  },
+  "Class:CLYH_0000028": {
+    "text": "Cell polarized and columnar, nuclei apical (9- 10h post fertilization at 18 degree celsius).",
+    "keywords": [
+      "Cell polarized",
+      "columnar",
+      "nuclei apical",
+      "fertilization"
+    ]
+  },
+  "Class:CLYH_0000030": {
+    "text": "Visible pointed oral pole but no cell ingression, ciliogenesis starting (12-13h post fertilization at 18 degree celsius).",
+    "keywords": [
+      "Visible pointed oral pole",
+      "Cell ingression",
+      "Ciliogenesis"
+    ]
+  },
+  "Class:CLYH_0000031": {
+    "text": "A few cells ingressed at pointed oral pole, swimming started  (14-16h post fertilization at 18 degree celsius).",
+    "keywords": [
+      "Fertilization",
+      "Oral Pole"
+    ]
+  },
+  "Class:CLYH_0000032": {
+    "text": "Ingression to fill balastotocoel half completed (17- 18h post fertilization at 18 degree celsius)",
+    "keywords": [
+      "Balastotocoel",
+      "Fertilization"
+    ]
+  },
+  "Class:CLYH_0000033": {
+    "text": "Blastocoel full, no epithelisation of internal cells (20h post fertilization at18 degree celsius",
+    "keywords": [
+      "Blastocoel",
+      "Internal Cells",
+      "Fertilization"
+    ]
+  },
+  "Class:CLYH_0000035": {
+    "text": "Epithelisation beginning at aboral pole (as seen at 24h post fertilization at 18 degree celsius)",
+    "keywords": [
+      "Epithelisation",
+      "Fertilization"
+    ]
+  },
+  "Class:CLYH_0000036": {
+    "text": "Visible central cavity (as seen at 48h post fertilization at 18 degree celsius)",
+    "keywords": [
+      "Central Cavity",
+      "Fertilization"
+    ]
+  },
+  "Class:CLYH_0000037": {
+    "text": "Competent to metamorphose as (72h post fertilization at 18 degree celsius)",
+    "keywords": [
+      "Metamorphosis",
+      "Fertilization"
+    ]
+  },
+  "Class:CLYH_0000038": {
+    "text": "Aged planula (> 3 days post fertilization at 18 degree celsius) but not received metamporphosis signal.",
+    "keywords": [
+      "Planula",
+      "Metamporphosis",
+      "Fertilization"
+    ]
+  },
+  "Class:CLYH_0000041": {
+    "text": "torpedo shape planula that stopped swimming",
+    "keywords": [
+      "torpedo shape planula",
+      "swimming"
+    ]
+  },
+  "Class:CLYH_0000042": {
+    "text": "irregularly shaped metamorphosing planula attached to substrate, not yet flattened",
+    "keywords": [
+      "Metamorphosing Planula",
+      "Substrate"
+    ]
+  },
+  "Class:CLYH_0000043": {
+    "text": "metamorphosing planula attached to the substrate and in shape of a flattened disc",
+    "keywords": [
+      "Metamorphosing Planula",
+      "Substrate"
+    ]
+  },
+  "Class:CLYH_0000044": {
+    "text": "metamorphosing planula attached to the substrate and in shape of a flattened disc with sculpted indentations",
+    "keywords": [
+      "Planula",
+      "Substrate",
+      "Sculpted indentations"
+    ]
+  },
+  "Class:CLYH_0000045": {
+    "text": "uniform extension emerging from the sculpted disc",
+    "keywords": [
+      "uniform extension",
+      "sculpted disc"
+    ]
+  },
+  "Class:CLYH_0000046": {
+    "text": "swollen distal extremity developing into a functional primary polyp head",
+    "keywords": [
+      "Polyp Head",
+      "Distal extremity"
+    ]
+  },
+  "Class:CLYH_0000047": {
+    "text": "theca of the primary polyp open on the oral side and mouth open",
+    "keywords": [
+      "Polyp",
+      "Oral Side",
+      "Mouth Open"
+    ]
+  },
+  "Class:CLYH_0000049": {
+    "text": "colony containing  mature or developing gonozoids , gastrozoids and stolons.",
+    "keywords": [
+      "Gonozoids",
+      "Gastrozoids",
+      "Stolons"
+    ]
+  },
+  "Class:CLYH_0000051": {
+    "text": "uniform extension emerging from the stolon as first stage of gastrozoid development",
+    "keywords": [
+      "Gastrozoid Development",
+      "Stolon Extension"
+    ]
+  },
+  "Class:CLYH_0000052": {
+    "text": "swollen distal extremity developing into a complete gastrozoid head",
+    "keywords": [
+      "Gastrozoid Head"
+    ]
+  },
+  "Class:CLYH_0000053": {
+    "text": "complete and functional gastrozoid with open hydrotheca and mouth",
+    "keywords": [
+      "Gastrozoid",
+      "Open Hydrotheca",
+      "Mouth"
+    ]
+  },
+  "Class:CLYH_0000054": {
+    "text": "Non feeding polyp specialized in budding medusae",
+    "keywords": [
+      "Non-feeding polyp",
+      "Medusae"
+    ]
+  },
+  "Class:CLYH_0000055": {
+    "text": "growing and developing gonozoid",
+    "keywords": [
+      "Gonozoid"
+    ]
+  },
+  "Class:CLYH_0000056": {
+    "text": "mature gonozoid budding medusae",
+    "keywords": [
+      "Gonozoid",
+      "Medusae"
+    ]
+  },
+  "Class:CLYH_0000057": {
+    "text": "mature gonozoid not containing any medusa bud only central tube and disc-shaped cap",
+    "keywords": [
+      "Gonozoid",
+      "Medusa bud"
+    ]
+  },
+  "Class:CLYH_0000061": {
+    "text": "medusa bud with visible ectoderm, endoderm and entocodon",
+    "keywords": [
+      "medusa bud",
+      "ectoderm",
+      "endoderm and entocodon"
+    ]
+  },
+  "Class:CLYH_0000062": {
+    "text": "medusa bud with forming subumbrella cavity",
+    "keywords": [
+      "medusa bud",
+      "subumbrella cavity"
+    ]
+  },
+  "Class:CLYH_0000063": {
+    "text": "medusa bud with with folding umbrella",
+    "keywords": [
+      "medusa bud",
+      "folding umbrella"
+    ]
+  },
+  "Class:CLYH_0000065": {
+    "text": "period of medusa growth between release medusa from gonozoid  until appearance of secondary tentacles. Only  4 tentacle bulbs present",
+    "keywords": [
+      "Medusa",
+      "Gonozoid",
+      "Tentacle Bulbs"
+    ]
+  },
+  "Class:CLYH_0000066": {
+    "text": "period of medusa growth when only 8 tentacles are present",
+    "keywords": [
+      "Medusa",
+      "Tentacles"
+    ]
+  },
+  "Class:CLYH_0000067": {
+    "text": "period of medusa growth when only 12 tentacles are present",
+    "keywords": [
+      "Medusa",
+      "Tentacles"
+    ]
+  },
+  "Class:CLYH_0000068": {
+    "text": "period of medusa growth when only 16 tentacles are present. No mature gametes (eg 5mm diameter)",
+    "keywords": [
+      "Medusa",
+      "Growth"
+    ]
+  },
+  "Class:CLYH_0000069": {
+    "text": "period of medusa growth when only 16 tentacles are present. Gonads contain mature gametes. (eg 10mm diameter)",
+    "keywords": [
+      "Medusa",
+      "Gonads",
+      "Growth"
+    ]
+  },
+  "Class:CLYH_1000008": {
+    "text": "Outer layer of the gastrula.",
+    "keywords": [
+      "Gastrula"
+    ]
+  },
+  "Class:CLYH_1000035": {
+    "text": "Organism at the gastrula stage.",
+    "keywords": [
+      "Gastrula",
+      "Organism"
+    ]
+  },
+  "Class:CLYH_1000009": {
+    "text": "Oral part of the outer layer of the gastrula.",
+    "keywords": [
+      "Gastrula",
+      "Oral Layer"
+    ]
+  },
+  "Class:CLYH_1000010": {
+    "text": "Aboral part of the outer layer of the gastrula.",
+    "keywords": [
+      "Gastrula",
+      "Outer Layer"
+    ]
+  },
+  "Class:CLYH_1000011": {
+    "text": "Mid part of the outer layer of the gastrula.",
+    "keywords": [
+      "Gastrula"
+    ]
+  },
+  "Class:CLYH_1000031": {
+    "text": "Organism at the blastula stage - an early stage of embryonic development in animals. It is produced by cleavage of a fertilized ovum and consists of a spherical layer of around 128 cells surrounding a central fluid-filled cavity called the blastocoel.",
+    "keywords": [
+      "Blastula Stage",
+      "Embryo Development",
+      "Animals"
+    ]
+  },
+  "Class:CLYH_1000012": {
+    "text": "Outer layer of the planula.",
+    "keywords": [
+      "Planula"
+    ]
+  },
+  "Class:CLYH_1000040": {
+    "text": "A distinct juvenile form before metamorphosis with elongated shape and cilliated outer layer. Inner and outer tissue layers separated by basement membrane.",
+    "keywords": [
+      "Juvenile Form",
+      "Metamorphosis"
+    ]
+  },
+  "Class:CLYH_1000013": {
+    "text": "Oral part of the outer layer of the planula.",
+    "keywords": [
+      "Planula",
+      "Oral Layer"
+    ]
+  },
+  "Class:CLYH_1000014": {
+    "text": "Aboral part of the outer layer of the planula.",
+    "keywords": [
+      "Planula",
+      "Archaeology"
+    ]
+  },
+  "Class:CLYH_1000016": {
+    "text": "Cells ingressing from the outer layer of the gastrula into the blastocoel.",
+    "keywords": [
+      "Gastrula",
+      "Blastocoel"
+    ]
+  },
+  "Class:CL_0000000": {
+    "text": "A material entity of anatomical origin (part of or deriving from an organism) that has as its parts a maximally connected cell compartment surrounded by a plasma membrane.",
+    "keywords": [
+      "Anatomical Origin",
+      "Plasma Membrane"
+    ]
+  },
+  "Class:CLYH_1000017": {
+    "text": "Cells ingressing from the outer layer into the blastocoel on the oral side of the gastrula.",
+    "keywords": [
+      "Cells",
+      "Gastrula",
+      "Blastocoel"
+    ]
+  },
+  "Class:CLYH_1000018": {
+    "text": "Cells ingressing from the outer layer into the blastocoel on the aboral side of the gastrula.",
+    "keywords": [
+      "Gastrointestinal Cells",
+      "Blastocoel"
+    ]
+  },
+  "Class:CLYH_1000019": {
+    "text": "Inner layer of the planula.",
+    "keywords": [
+      "Planula"
+    ]
+  },
+  "Class:CLYH_1000020": {
+    "text": "Inner layer of the planula on the aboral side of the planula.",
+    "keywords": [
+      "Planula",
+      "Aboral Side"
+    ]
+  },
+  "Class:CLYH_1000021": {
+    "text": "Inner layer of the planula on the oral side of the planula.",
+    "keywords": [
+      "Planula",
+      "Oral Side"
+    ]
+  },
+  "Class:CLYH_1000022": {
+    "text": "Cell formed by fusion of a mature female reproductive cell and a mature male reproductive cell at fertilization.",
+    "keywords": [
+      "Cell Fusion",
+      "Reproductive Cells",
+      "Fertilization"
+    ]
+  },
+  "Class:CLYH_1000087": {
+    "text": "A mature sexual reproductive cell having a single set of unpaired chromosomes.",
+    "keywords": [
+      "Sexual Reproductive Cell",
+      "Chromosome Pairing"
+    ]
+  },
+  "Class:CLYH_1000023": {
+    "text": "Anatomical entity that comprises the organism in the early stages of growth and differentiation that are characterized by cleavage, the laying down of fundamental tissues.",
+    "keywords": [
+      "Anatomical Entity",
+      "Anatomy"
+    ]
+  },
+  "Class:CLYH_1000024": {
+    "text": "Organism at the cleavage stage.",
+    "keywords": [
+      "Organism",
+      "Cleavage"
+    ]
+  },
+  "Class:CLYH_1000025": {
+    "text": "Organism at the cleavage stage after the first cell division.",
+    "keywords": [
+      "Organism",
+      "Cleavage",
+      "Cell Division"
+    ]
+  },
+  "Class:CLYH_1000026": {
+    "text": "Organism at the cleavage stage after two division cycles.",
+    "keywords": [
+      "Organism",
+      "Cleavage Stage",
+      "Division Cycle"
+    ]
+  },
+  "Class:CLYH_1000027": {
+    "text": "Organism at the cleavage stage after three division cycles.",
+    "keywords": [
+      "Organism",
+      "Cleavage Stage",
+      "Division Cycle"
+    ]
+  },
+  "Class:CLYH_1000028": {
+    "text": "Organism at the cleavage stage after four division cycles.",
+    "keywords": [
+      "Cleavage Stage",
+      "Organism"
+    ]
+  },
+  "Class:CLYH_1000029": {
+    "text": "Organism at the cleavage stage after five division cycles.",
+    "keywords": [
+      "Cleavage Stage",
+      "Organism"
+    ]
+  },
+  "Class:CLYH_1000030": {
+    "text": "Organism at the cleavage stage after six division cycles.",
+    "keywords": [
+      "Organism",
+      "Cleavage Stage",
+      "Division Cycle"
+    ]
+  },
+  "Class:CLYH_1000032": {
+    "text": "Blastula stage embryo before epithelisation.",
+    "keywords": [
+      "Blastula",
+      "Embryo",
+      "Epithelisation"
+    ]
+  },
+  "Class:CLYH_1000033": {
+    "text": "Blastula stage embryo with polarised epithelial cells.",
+    "keywords": [
+      "Blastula stage embryo",
+      "polarised epithelial cells"
+    ]
+  },
+  "Class:CLYH_1000034": {
+    "text": "Blastula stage embryo with polarised and columnar epithelial cells.",
+    "keywords": [
+      "Blastula Stage",
+      "Embryo",
+      "Columnar epithelial Cells"
+    ]
+  },
+  "Class:CLYH_1000036": {
+    "text": "Visible pointed oral pole but no cell ingression, Ciliogenesis starting.",
+    "keywords": [
+      "Visible pointed oral pole",
+      "Ciliogenesis"
+    ]
+  },
+  "Class:CLYH_1000037": {
+    "text": "Gastrula with a few cells ingressed at pointed oral pole. Swimming.",
+    "keywords": [
+      "Gastrula",
+      "Oral Pole"
+    ]
+  },
+  "Class:CLYH_1000038": {
+    "text": "Gastrula in which blastotocoel is half filled with ingressing cells.",
+    "keywords": [
+      "Gastrula",
+      "Blastotocoel"
+    ]
+  },
+  "Class:CLYH_1000039": {
+    "text": "Gastrula in which Blastocoel is full but no epithelisation of internal cells.",
+    "keywords": [
+      "Gastrula",
+      "Blastocoel",
+      "Internal Cells"
+    ]
+  },
+  "Class:CLYH_1000041": {
+    "text": "Planula larva showing epithelisation of gastrodermal cells at aboral pole but not orally.",
+    "keywords": [
+      "Planula larva",
+      "Gastrodermal Cells",
+      "Aboral Pole"
+    ]
+  },
+  "Class:CLYH_1000042": {
+    "text": "Planula larva with visible central cavity in gastrodermis, incompetent to metamorphose.",
+    "keywords": [
+      "Planula larva",
+      "Gastrodermis",
+      "Metamorphosis"
+    ]
+  },
+  "Class:CLYH_1000043": {
+    "text": "Planula larva with all cell types diffrerntiated and competent to metamorphose.",
+    "keywords": [
+      "Planula larva",
+      "Metamorphose"
+    ]
+  },
+  "Class:CLYH_1000044": {
+    "text": "Elongated planula competent to metamorphose, thinner than P3 planula.",
+    "keywords": [
+      "Elongated Planula",
+      "Metamorphose",
+      "P3 Planula"
+    ]
+  },
+  "Class:CLYH_1000045": {
+    "text": "Planula larva that has stopped swimming and is transforming into a polyp.",
+    "keywords": [
+      "Planula larva",
+      "Polyp"
+    ]
+  },
+  "Class:CLYH_1000046": {
+    "text": "Planula larva that has stopped swimming and fixed to substrate.",
+    "keywords": [
+      "Planula larva",
+      "Substrate"
+    ]
+  },
+  "Class:CLYH_1000047": {
+    "text": "Metamorphosing larva that has a pear shape.",
+    "keywords": [
+      "Metamorphosing Larva",
+      "Pear Shape"
+    ]
+  },
+  "Class:CLYH_1000048": {
+    "text": "Transitory form of planula undergoing metamorphosis a flattened circular form attached to the substrate.",
+    "keywords": [
+      "Planula",
+      "Metamorphosis"
+    ]
+  },
+  "Class:CLYH_1000049": {
+    "text": "Transitory form of planula undergoing metamorphosis a flattened form attached to the substrate showing irregular indentations and with small stalk emerging.",
+    "keywords": [
+      "Planula",
+      "Metamorphosis"
+    ]
+  },
+  "Class:CLYH_1000050": {
+    "text": "Region of the cell closely surrounding the mitotoc spindle.",
+    "keywords": [
+      "Mitotoc Spindle",
+      "Cell Structure"
+    ]
+  },
+  "Class:CLYH_1000051": {
+    "text": "Region inheriting the peripheral region of the egg around the animal pole.",
+    "keywords": [
+      "Egg Region",
+      "Animal Pole"
+    ]
+  },
+  "Class:CLYH_1000084": {
+    "text": "A female germ cell that has entered meiosis.",
+    "keywords": [
+      "Germ Cell",
+      "Meiosis"
+    ]
+  },
+  "Class:CLYH_1000088": {
+    "text": "A female gamete where meiosis is complete and is able to participate in fertilization.",
+    "keywords": [
+      "Meiosis",
+      "Female Gamete",
+      "Fertilization"
+    ]
+  },
+  "Class:CLYH_1000054": {
+    "text": "Region inheriting the peripheral region of the egg around the vegetal pole.",
+    "keywords": [
+      "Egg Region",
+      "Vegetal Pole"
+    ]
+  },
+  "Class:CLYH_1000055": {
+    "text": "Region of a stage III oocyte cortex close to the oocyte nucleus.",
+    "keywords": [
+      "Oocyte cortex",
+      "oocyte nucleus"
+    ]
+  },
+  "Class:CLYH_1000056": {
+    "text": "Egg cortex region containing the site of polar body formation.",
+    "keywords": [
+      "Egg cortex",
+      "polar body formation"
+    ]
+  },
+  "Class:CLYH_1000059": {
+    "text": "Region of cytoplasm in a stage III oocyte in the same hemishere as the nucleus.",
+    "keywords": [
+      "Cytoplasm",
+      "Oocyte",
+      "Hemishere"
+    ]
+  },
+  "Class:CLYH_1000060": {
+    "text": "Cytoplasm in egg hemisphere containing site of polar body formation.",
+    "keywords": [
+      "Cytoplasm",
+      "Egg Hemisphere",
+      "Polar Body Formation"
+    ]
+  },
+  "Class:CLYH_1000076": {
+    "text": "Single cell of a cleavage cel embryo.",
+    "keywords": [
+      "Cleavage Cell",
+      "Cel Embryo"
+    ]
+  },
+  "Class:CLYH_1000192": {
+    "text": "Reproductive organ of the medusa.",
+    "keywords": [
+      "Medusa",
+      "Reproductive Organ"
+    ]
+  },
+  "Class:CLYH_1000160": {
+    "text": "Swimming pelagic stage of the Clytia hemisphaerica life cycle.",
+    "keywords": [
+      "Clytia hemisphaerica",
+      "Pelagic Stage",
+      "Life Cycle"
+    ]
+  },
+  "Class:CLYH_1000079": {
+    "text": "An undeveloped male germ cell. Spermatogonia develop into primary spermatocytes.",
+    "keywords": [
+      "Male germ cell",
+      "Spermatogonia"
+    ]
+  },
+  "Class:CLYH_1000095": {
+    "text": "Multipotent stem cell.",
+    "keywords": [
+      "Multipotent Stem Cell"
+    ]
+  },
+  "Class:CLYH_1000080": {
+    "text": "A male germ cell that develops from the haploid secondary spermatocytes. Without further division, spermatids undergo structural changes and give rise to spermatozoa.",
+    "keywords": [
+      "Male germ cell",
+      "Spermatocytes",
+      "Spermatozoa"
+    ]
+  },
+  "Class:CLYH_1000081": {
+    "text": "A mature male germ cell that develops from a spermatid.",
+    "keywords": [
+      "Male germ cell",
+      "spermatid"
+    ]
+  },
+  "Class:CLYH_1000083": {
+    "text": "An undifferentiated germ cell that proliferates rapidly and gives rise to oocytes.",
+    "keywords": [
+      "Germ Cell",
+      "Oocytes"
+    ]
+  },
+  "Class:CLYH_1000085": {
+    "text": "Oocyte incorporating yolk.",
+    "keywords": [
+      "Oocyte",
+      "Yolk"
+    ]
+  },
+  "Class:CLYH_1000086": {
+    "text": "Oocyte greater than 150 micrometers in diameter competent to undergo meiotic maturation.",
+    "keywords": [
+      "Oocyte",
+      "Meiotic Maturation"
+    ]
+  },
+  "Class:CLYH_1000090": {
+    "text": "Specialized cell participating in mucus secretion.",
+    "keywords": [
+      "Specialized Cell",
+      "Mucus Secretion"
+    ]
+  },
+  "Class:CLYH_1000091": {
+    "text": "Gland cell located on the aboral side of the planula larva, in the outer layer.",
+    "keywords": [
+      "Gland Cell",
+      "Planula larva"
+    ]
+  },
+  "Class:CLYH_1000092": {
+    "text": "Gland cell located in the inner layer of the planula larva.",
+    "keywords": [
+      "Gland Cell",
+      "Planula larva"
+    ]
+  },
+  "Class:CLYH_1000093": {
+    "text": "Gland cell of the manubrium.",
+    "keywords": [
+      "Gland Cell",
+      "Manubrium"
+    ]
+  },
+  "Class:CLYH_1000187": {
+    "text": "Central structure of the medusa bearing the mouth and performing extracellular digestion.",
+    "keywords": [
+      "Medusa",
+      "Extracellular Digestion"
+    ]
+  },
+  "Class:CLYH_1000140": {
+    "text": "Outgrowth of the gonozoid central tube, within which medusa structures develop.",
+    "keywords": [
+      "Gonozoid Central Tube",
+      "Medusa"
+    ]
+  },
+  "Class:CLYH_1000094": {
+    "text": "Gland cell of the gastrozoid.",
+    "keywords": [
+      "Gland Cell",
+      "Gastrozoid"
+    ]
+  },
+  "Class:CLYH_1000150": {
+    "text": "Polyp specialised for catching prey and digesting.",
+    "keywords": [
+      "Polyp",
+      "Parasites",
+      "Digesting"
+    ]
+  },
+  "Class:CLYH_1000096": {
+    "text": "Interstitial cell in the stolon.",
+    "keywords": [
+      "Interstitial Cell",
+      "Stolon"
+    ]
+  },
+  "Class:CLYH_1000128": {
+    "text": "Tubular structure adhering to the substrate, connecting the bases of the polyps.",
+    "keywords": [
+      "Tubular Structure",
+      "Polyps"
+    ]
+  },
+  "Class:CLYH_1000097": {
+    "text": "Interstitial cell in the embryo.",
+    "keywords": [
+      "Interstitial Cell",
+      "Embryo"
+    ]
+  },
+  "Class:CLYH_1000098": {
+    "text": "Interstitial cell in the planula.",
+    "keywords": [
+      "Interstitial Cell",
+      "Planula"
+    ]
+  },
+  "Class:CLYH_1000099": {
+    "text": "Interstitial cell in the feeding polyp.",
+    "keywords": [
+      "Interstitial Cell",
+      "Polyp"
+    ]
+  },
+  "Class:CLYH_1000100": {
+    "text": "Interstitial cell within the gonozoid.",
+    "keywords": [
+      "Interstitial Cell",
+      "Gonozoid"
+    ]
+  },
+  "Class:CLYH_1000134": {
+    "text": "Polyp specialised for production of medusa by budding.",
+    "keywords": [
+      "Polyp",
+      "Medusa",
+      "Budding"
+    ]
+  },
+  "Class:CLYH_1000127": {
+    "text": "Connected system of gastrozoid and gonozoid polyps, propagating vegetatively.",
+    "keywords": [
+      "Gastrozoid",
+      "Gonozoid Polyps"
+    ]
+  },
+  "Class:CLYH_1000101": {
+    "text": "Interstital cell of the manubrium.",
+    "keywords": [
+      "Interstital Cell",
+      "Manubrium"
+    ]
+  },
+  "Class:CLYH_1000102": {
+    "text": "Differenciating nematocyte.",
+    "keywords": [
+      "Nematocyte"
+    ]
+  },
+  "Class:CLYH_1000103": {
+    "text": "Nematoblast in the stolon.",
+    "keywords": [
+      "Nematoblast",
+      "Stolon"
+    ]
+  },
+  "Class:CLYH_1000104": {
+    "text": "Nematoblast in the planula.",
+    "keywords": [
+      "Nematoblast",
+      "Planula"
+    ]
+  },
+  "Class:CLYH_1000105": {
+    "text": "Nematoblast of the tentacle bulb.",
+    "keywords": [
+      "Nematoblast",
+      "Tentacle Bulb"
+    ]
+  },
+  "Class:CLYH_1000171": {
+    "text": "Cresent-shaped nematogenic area of the tentacle bulb, located on the oral side of the bulb outer layer.",
+    "keywords": [
+      "Nematogenic Area",
+      "Tentacle Bulb"
+    ]
+  },
+  "Class:CLYH_1000106": {
+    "text": "Nematoblast of the manubrium.",
+    "keywords": [
+      "Nematoblast",
+      "Manubrium"
+    ]
+  },
+  "Class:CLYH_1000107": {
+    "text": "Specialized cell containing one giant explosive secretory organelle called nematocyst used for prey capture and defense from predators.",
+    "keywords": [
+      "Nematocyst",
+      "Parasite Capture",
+      "Defense"
+    ]
+  },
+  "Class:CLYH_1000108": {
+    "text": "Nematocyte of the planula.",
+    "keywords": [
+      "Nematocyte",
+      "Planula"
+    ]
+  },
+  "Class:CLYH_1000109": {
+    "text": "Nematocyte of the medusa tentacle.",
+    "keywords": [
+      "Nematocyte",
+      "Medusa Tentacle"
+    ]
+  },
+  "Class:CLYH_1000174": {
+    "text": "Tentacle of the medusa not including the tentacle bulb.",
+    "keywords": [
+      "Medusa",
+      "Tentacle"
+    ]
+  },
+  "Class:CLYH_1000110": {
+    "text": "Nematocyte located on the manubrium.",
+    "keywords": [
+      "Nematocyte",
+      "Manubrium"
+    ]
+  },
+  "Class:CLYH_1000111": {
+    "text": "Nematocyte located on the tentacle.",
+    "keywords": [
+      "Nematocyte",
+      "Tentacle"
+    ]
+  },
+  "Class:CLYH_1000151": {
+    "text": "Tentacle surrounding the gastrozoid mouth.",
+    "keywords": [
+      "Gastrozoid Mouth",
+      "Tentacle"
+    ]
+  },
+  "Class:CLYH_1000112": {
+    "text": "A cell that is part of the nervous system.",
+    "keywords": [
+      "Nervous System",
+      "Cell Biology"
+    ]
+  },
+  "Class:CLYH_1000113": {
+    "text": "Neural cell in the planula.",
+    "keywords": [
+      "Neural Cell",
+      "Planula"
+    ]
+  },
+  "Class:CLYH_1000114": {
+    "text": "Neural cell in the mid part of the planula.",
+    "keywords": [
+      "Neural Cell",
+      "Planula"
+    ]
+  },
+  "Class:CLYH_1000115": {
+    "text": "Neural cell in the aboral part of the planula.",
+    "keywords": [
+      "Neural Cell",
+      "Planula"
+    ]
+  },
+  "Class:CLYH_1000116": {
+    "text": "Nerve cells of the radial canal.",
+    "keywords": [
+      "Nerve Cells",
+      "Radial Canal"
+    ]
+  },
+  "Class:CLYH_1000182": {
+    "text": "Canal connecting the manubrium with the bell margin.",
+    "keywords": [
+      "Canal",
+      "Manubrium",
+      "Bell Margin"
+    ]
+  },
+  "Class:CLYH_1000117": {
+    "text": "Nerve cells of the circular canal.",
+    "keywords": [
+      "Nerve Cells",
+      "Circular Canal"
+    ]
+  },
+  "Class:CLYH_1000183": {
+    "text": "Canal running along the bell margin.",
+    "keywords": [
+      "Canal",
+      "Bell Margin"
+    ]
+  },
+  "Class:CLYH_1000118": {
+    "text": "Nerve cells located in the gonad outer layer.",
+    "keywords": [
+      "Nerve Cells",
+      "Gonad"
+    ]
+  },
+  "Class:CLYH_1000119": {
+    "text": "Nerve cell of the medusa tentacle bulb.",
+    "keywords": [
+      "Medusa",
+      "Tentacle Bulb"
+    ]
+  },
+  "Class:CLYH_1000170": {
+    "text": "Swollen structure producing the tentacle and connecting the bell margin to the tentacle.",
+    "keywords": [
+      "Tentacle",
+      "Bell Margin"
+    ]
+  },
+  "Class:CLYH_1000120": {
+    "text": "Nervous cells of the subumbrella.",
+    "keywords": [
+      "Nervous Cells",
+      "Subumbrella"
+    ]
+  },
+  "Class:CLYH_1000163": {
+    "text": "Inner layers of the umbrella.",
+    "keywords": [
+      "Inner layers of the umbrella"
+    ]
+  },
+  "Class:CLYH_1000121": {
+    "text": "Epithelial cell containing smooth myofibers.",
+    "keywords": [
+      "Epithelial Cell",
+      "Smooth Myofibers"
+    ]
+  },
+  "Class:CLYH_1000122": {
+    "text": "Smooth muscle of the velum.",
+    "keywords": [
+      "Smooth Muscle",
+      "Velum"
+    ]
+  },
+  "Class:CLYH_1000179": {
+    "text": "A muscular flap of tissue surrounding the margin of the bell.",
+    "keywords": [
+      "Muscular Flap",
+      "Bell"
+    ]
+  },
+  "Class:CLYH_1000123": {
+    "text": "Smooth muscle of the subumbrella.",
+    "keywords": [
+      "Subumbrella",
+      "Muscle"
+    ]
+  },
+  "Class:CLYH_1000124": {
+    "text": "Epithelial cell containing striated myofibers.",
+    "keywords": [
+      "Epithelial Cell",
+      "Striated Myofibers"
+    ]
+  },
+  "Class:CLYH_1000125": {
+    "text": "Striated muscle of the velum.",
+    "keywords": [
+      "Striated Muscle",
+      "Velum"
+    ]
+  },
+  "Class:CLYH_1000126": {
+    "text": "Striated muscle of the subumbrella.",
+    "keywords": [
+      "Striated Muscle",
+      "Subumbrella"
+    ]
+  },
+  "Class:CLYH_1000129": {
+    "text": "Growing tip of a stolon.",
+    "keywords": [
+      "Stolon"
+    ]
+  },
+  "Class:CLYH_1000130": {
+    "text": "Mesoglea layer between the inner and outer layers of the stolon.",
+    "keywords": [
+      "Mesoglea Layer",
+      "Stolon"
+    ]
+  },
+  "Class:CLYH_1000158": {
+    "text": "Jelly-like layer between epithelial layer. The mesoglea is mostly acellular and composed of extracellular matrix.",
+    "keywords": [
+      "Mesoglea",
+      "Epithelial Layer",
+      "Extracellular Matrix"
+    ]
+  },
+  "Class:CLYH_1000131": {
+    "text": "Segments of the stolon between the bases of the polyps, excluding the growing tip.",
+    "keywords": [
+      "Polyps",
+      "Stolon"
+    ]
+  },
+  "Class:CLYH_1000132": {
+    "text": "Outer layer within the stolon.",
+    "keywords": [
+      "Outer Layer",
+      "Stolon"
+    ]
+  },
+  "Class:CLYH_1000133": {
+    "text": "Inner layer within the stolon.",
+    "keywords": [
+      "Inner Layer",
+      "Stolon"
+    ]
+  },
+  "Class:CLYH_1000135": {
+    "text": "Structure that closes the distal end of the gonozoid.",
+    "keywords": [
+      "Gonozoid",
+      "Structure"
+    ]
+  },
+  "Class:CLYH_1000136": {
+    "text": "Tubular structure comprising inner and outer layers at the centre of the gonozoid.",
+    "keywords": [
+      "Gonozoid",
+      "Tubular Structure"
+    ]
+  },
+  "Class:CLYH_1000137": {
+    "text": "Outer layer of the gonozoid including central tube and developing buds.",
+    "keywords": [
+      "Gonozoid",
+      "Central Tube",
+      "Buds"
+    ]
+  },
+  "Class:CLYH_1000138": {
+    "text": "Inner layer of the gonozoid including central tube and developing buds.",
+    "keywords": [
+      "Gonozoid",
+      "Central Tube",
+      "Buds"
+    ]
+  },
+  "Class:CLYH_1000139": {
+    "text": "Epithelial cell layer positioned between the developing medusa buds and the theca of the gonozoid.",
+    "keywords": [
+      "Epithelial Cell Layer",
+      "Medusa",
+      "Gonozoid"
+    ]
+  },
+  "Class:CLYH_1000141": {
+    "text": "Outgrowth of the gonozoid central tube, comprising entocodon, endoderm and ectoderm tissue layers.",
+    "keywords": [
+      "Gonozoid Central Tube",
+      "Entocodon",
+      "Endoderm",
+      "ectoderm"
+    ]
+  },
+  "Class:CLYH_1000142": {
+    "text": "Bud on the side of the gonozoid central tube, in which all medusa structures are present but not yet expanded to final proportions.",
+    "keywords": [
+      "Gonozoid Central Tube",
+      "Medusa Structures"
+    ]
+  },
+  "Class:CLYH_1000143": {
+    "text": "Bud on the side of the gonozoid central tube, containing medusa structures with same proportions as newly released medusa.",
+    "keywords": [
+      "Gonozoid Central Tube",
+      "Medusa"
+    ]
+  },
+  "Class:CLYH_1000144": {
+    "text": "Group of cells between the inner and outer layers of the early medusa bud.",
+    "keywords": [
+      "Medusa bud",
+      "Cells"
+    ]
+  },
+  "Class:CLYH_1000145": {
+    "text": "Developing manubrium within the medusa bud.",
+    "keywords": [
+      "Manubrium",
+      "Medusa bud"
+    ]
+  },
+  "Class:CLYH_1000146": {
+    "text": "Developing tentacle bud within the medusa bud.",
+    "keywords": [
+      "Tentacle bud",
+      "Medusa bud"
+    ]
+  },
+  "Class:CLYH_1000168": {
+    "text": "Medusa tentacle system comprising tentacles, tentacle bulbs and tentacle buds.",
+    "keywords": [
+      "Medusa",
+      "Tentacle System"
+    ]
+  },
+  "Class:CLYH_1000147": {
+    "text": "Developing radial canal within the medusa bud.",
+    "keywords": [
+      "Radial Canal",
+      "Medusa bud"
+    ]
+  },
+  "Class:CLYH_1000148": {
+    "text": "Developing striated muscle within the medusa bud.",
+    "keywords": [
+      "Striated Muscle",
+      "Medusa bud"
+    ]
+  },
+  "Class:CLYH_1000149": {
+    "text": "Developing circular canal within the medusa bud.",
+    "keywords": [
+      "Medusa bud",
+      "Circular Canal"
+    ]
+  },
+  "Class:CLYH_1000152": {
+    "text": "Mouth of the gastrozoid.",
+    "keywords": [
+      "Gastrozoid"
+    ]
+  },
+  "Class:CLYH_1000154": {
+    "text": "Chitinous acellular layer surronding and protecting the polyps.",
+    "keywords": [
+      "Chitinous Acellular Layer",
+      "Polyps"
+    ]
+  },
+  "Class:CLYH_1000155": {
+    "text": "Chitinous acellular layer surronding the gonozoid.",
+    "keywords": [
+      "Chitinous Acellular Layer",
+      "Gonozoid"
+    ]
+  },
+  "Class:CLYH_1000156": {
+    "text": "Chitinous acellular layer surronding the stolon.",
+    "keywords": [
+      "Chitinous Acellular Layer",
+      "Stolon"
+    ]
+  },
+  "Class:CLYH_1000157": {
+    "text": "Chitinous acellular layer surronding the gastrozoid.",
+    "keywords": [
+      "Chitinous Acellular Layer",
+      "Gastrozoid"
+    ]
+  },
+  "Class:CLYH_1000159": {
+    "text": "Mesoglea layer between the inner and outer tissue layers of the gonozoid central tube.",
+    "keywords": [
+      "Mesoglea Layer",
+      "Gonozoid Central Tube"
+    ]
+  },
+  "Class:CLYH_1000161": {
+    "text": "Dome-shaped part of the medusa stage.",
+    "keywords": [
+      "Dome-shaped",
+      "medusa stage"
+    ]
+  },
+  "Class:CLYH_1000162": {
+    "text": "Outer layer of the umbrella.",
+    "keywords": [
+      "Outer Layer",
+      "Umbrella"
+    ]
+  },
+  "Class:CLYH_1000164": {
+    "text": "Inner layer of the subumbrella in direct contact with the thick mesoglea layer of the medusa.",
+    "keywords": [
+      "Subumbrella",
+      "Mesoglea Layer",
+      "Medusa"
+    ]
+  },
+  "Class:CLYH_1000165": {
+    "text": "Thick mesoglea layer of the umbrella forming the bulk of the umbrella.",
+    "keywords": [
+      "Mesoglea Layer",
+      "Umbrella"
+    ]
+  },
+  "Class:CLYH_1000166": {
+    "text": "Outer border of the umbrella.",
+    "keywords": [
+      "Outer border of the umbrella."
+    ]
+  },
+  "Class:CLYH_1000167": {
+    "text": "Sensory structure of the medusa, located on the bell margin, consisting of a sensory vesicle containing statoliths.",
+    "keywords": [
+      "Medusa",
+      "Sensory Structure",
+      "Statoliths"
+    ]
+  },
+  "Class:CLYH_1000169": {
+    "text": "Initial stage of tentacle bulb formation.",
+    "keywords": [
+      "Tentacle Bulb Formation"
+    ]
+  },
+  "Class:CLYH_1000172": {
+    "text": "V-shaped non-nematogenic ectodermal area of the tentacle bulb, located on the aboral side of the bulb.",
+    "keywords": [
+      "V-shaped non-nematogenic ectodermal area",
+      "tentacle bulb"
+    ]
+  },
+  "Class:CLYH_1000173": {
+    "text": "Inner layer of the medusa tentacle bulb.",
+    "keywords": [
+      "Medusa",
+      "Tentacle Bulb"
+    ]
+  },
+  "Class:CLYH_1000175": {
+    "text": "Four first medusa tentacles of the newly hatched medusa, connected to both radial and circular canals.",
+    "keywords": [
+      "Medusa",
+      "Canals"
+    ]
+  },
+  "Class:CLYH_1000176": {
+    "text": "Medusa tentacle generated after medusa hatching and connected to the circular but not to the radial canal.",
+    "keywords": [
+      "Medusa",
+      "Tentacle",
+      "Circular Canal"
+    ]
+  },
+  "Class:CLYH_1000177": {
+    "text": "Outer layer of the medusa tentacle.",
+    "keywords": [
+      "Medusa",
+      "Tentacle"
+    ]
+  },
+  "Class:CLYH_1000178": {
+    "text": "Inner layer of the medusa tentacle.",
+    "keywords": [
+      "Medusa",
+      "Tentacle"
+    ]
+  },
+  "Class:CLYH_1000180": {
+    "text": "Inner layer of the velum.",
+    "keywords": [
+      "Velum",
+      "Physiology"
+    ]
+  },
+  "Class:CLYH_1000181": {
+    "text": "Outer layer of the velum.",
+    "keywords": [
+      "Outer Layer",
+      "Velum"
+    ]
+  },
+  "Class:CLYH_1000184": {
+    "text": "Concentration of nerve cell bodies and projections running around the margin of the bell.",
+    "keywords": [
+      "Nerve Cell Body",
+      "Projections",
+      "Bell"
+    ]
+  },
+  "Class:CLYH_1000185": {
+    "text": "Nerve ring located closest to the centre of the medusa.",
+    "keywords": [
+      "Medusa",
+      "Nerve Ring"
+    ]
+  },
+  "Class:CLYH_1000186": {
+    "text": "Nerve ring located farest to the centre of the medusa.",
+    "keywords": [
+      "Nerve Ring",
+      "Medusa"
+    ]
+  },
+  "Class:CLYH_1000188": {
+    "text": "Medusa mouth as part of the manubrium.",
+    "keywords": [
+      "Medusa",
+      "Manubrium"
+    ]
+  },
+  "Class:CLYH_1000189": {
+    "text": "Inner layer of the manubrium opposite to the mouth and in direct contact with the thick mesoglea layer of the medusa.",
+    "keywords": [
+      "Manubrium",
+      "Mesoglea",
+      "Medusa"
+    ]
+  },
+  "Class:CLYH_1000190": {
+    "text": "Outer layer of the manubrium.",
+    "keywords": [
+      "Manubrium"
+    ]
+  },
+  "Class:CLYH_1000191": {
+    "text": "Inner digestive layer of the manubrium.",
+    "keywords": [
+      "Manubrium",
+      "Digestive Layer"
+    ]
+  },
+  "Class:CLYH_1000193": {
+    "text": "Outer layer of the gonad.",
+    "keywords": [
+      "Gonad"
+    ]
+  },
+  "Class:CLYH_1000194": {
+    "text": "Inner layer of the gonad.",
+    "keywords": [
+      "Gonad"
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "Class:Spiciness": {
+    "text": "A ValuePartition that describes only values from Hot, Medium or Mild. NB Subclasses can themselves be divided up into further partitions.",
+    "keywords": [
+      "ValuePartition",
+      "NB Subclasses"
+    ]
+  },
+  "Class:NamedPizza": {
+    "text": "A pizza that can be found on a pizza menu",
+    "keywords": [
+      "Pizza",
+      "Menu"
+    ]
+  },
+  "Class:CheeseyPizza": {
+    "text": "Any pizza that has at least 1 cheese topping.",
+    "keywords": [
+      "Pizza",
+      "Cheese Tipping"
+    ]
+  },
+  "Class:CheeseyVegetableTopping": {
+    "text": "This class will be unsatisfiable. This is because we have given it 2 disjoint parents, which means it could never have any instances (as nothing can be both a CheeseTopping and a VegetableTopping). NB Called ProbeInconsistentTopping in the ProtegeOWL Tutorial.",
+    "keywords": [
+      "ProbeInconsistentTopping",
+      "ProtegeOWL"
+    ]
+  },
+  "Class:Country": {
+    "text": "A class that is equivalent to the set of individuals that are described in the enumeration - ie Countries can only be either America, England, France, Germany or Italy and nothing else. Note that these individuals have been asserted to be allDifferent from each other.",
+    "keywords": [
+      "Classes",
+      "Enumeration"
+    ]
+  },
+  "Class:ValuePartition": {
+    "text": "A ValuePartition is a pattern that describes a restricted set of classes from which a property can be associated. The parent class is used in restrictions, and the covering axiom means that only members of the subclasses may be used as values. The possible subclasses cannot be extended without updating the ValuePartition class.",
+    "keywords": [
+      "ValuePartition",
+      "Pattern"
+    ]
+  },
+  "Class:IceCream": {
+    "text": "A class to demonstrate mistakes made with setting a property domain. The property hasTopping has a domain of Pizza. This means that the reasoner can infer that all individuals using the hasTopping property must be of type Pizza. Because of the restriction on this class, all members of IceCream must use the hasTopping property, and therefore must also be members of Pizza. However, Pizza and IceCream are disjoint, so this causes an inconsistency. If they were not disjoint, IceCream would be inferred to be a subclass of Pizza.",
+    "keywords": [
+      "HasTopping",
+      "Pizza",
+      "IceCream",
+      "Property Domain"
+    ]
+  },
+  "Class:InterestingPizza": {
+    "text": "Any pizza that has at least 3 toppings. Note that this is a cardinality constraint on the hasTopping property and NOT a qualified cardinality constraint (QCR). A QCR would specify from which class the members in this relationship must be. eg has at least 3 toppings from PizzaTopping. This is currently not supported in OWL.",
+    "keywords": [
+      "PizzaTopping",
+      "OWL",
+      "QCR"
+    ]
+  },
+  "Class:MeatyPizza": {
+    "text": "Any pizza that has at least one meat topping",
+    "keywords": [
+      "Meat Tipping",
+      "Pizza"
+    ]
+  },
+  "Class:NonVegetarianPizza": {
+    "text": "Any Pizza that is not a VegetarianPizza",
+    "keywords": [
+      "Pizza",
+      "Vegetarian"
+    ]
+  },
+  "Class:VegetarianPizza": {
+    "text": "Any pizza that does not have fish topping and does not have meat topping is a VegetarianPizza. Note that instances of this class do not need to have any toppings at all.",
+    "keywords": [
+      "VegetarianPizza",
+      "Fish topping",
+      "Meat topping"
+    ]
+  },
+  "Class:RealItalianPizza": {
+    "text": "Any Pizza that has the country of origin, Italy.  RealItalianPizzas must also only have ThinAndCrispy bases.",
+    "keywords": [
+      "RealItalianPizzas",
+      "Italy"
+    ]
+  },
+  "Class:SpicyPizza": {
+    "text": "Any pizza that has a spicy topping is a SpicyPizza",
+    "keywords": [
+      "SpicyPizza",
+      "Pizza"
+    ]
+  },
+  "Class:SpicyTopping": {
+    "text": "Any pizza topping that has spiciness Hot",
+    "keywords": [
+      "Pizza topping",
+      "Spiciness"
+    ]
+  },
+  "Class:SpicyPizzaEquivalent": {
+    "text": "An alternative definition for the SpicyPizza which does away with needing a definition of SpicyTopping and uses a slightly more complicated restriction: Pizzas that have at least one topping that is both a PizzaTopping and has spiciness hot are members of this class.",
+    "keywords": [
+      "SpicyPizza",
+      "PizzaTopping"
+    ]
+  },
+  "Class:UnclosedPizza": {
+    "text": "An unclosed Pizza cannot be inferred to be either a VegetarianPizza or a NonVegetarianPizza, because it might have other toppings.",
+    "keywords": [
+      "Unclosed Pizza",
+      "VegetarianPizza",
+      "NonVegetarian Pizza"
+    ]
+  },
+  "Class:VegetarianPizzaEquivalent1": {
+    "text": "Any pizza that only has vegetarian toppings or no toppings is a VegetarianPizzaEquiv1. Should be inferred to be equivalent to VegetarianPizzaEquiv2.  Not equivalent to VegetarianPizza because PizzaTopping is not covering",
+    "keywords": [
+      "VegetarianPizza",
+      "PizzaTopping"
+    ]
+  },
+  "Class:VegetarianTopping": {
+    "text": "An example of a covering axiom. VegetarianTopping is equivalent to the union of all toppings in the given axiom. VegetarianToppings can only be Cheese or Vegetable or....etc.",
+    "keywords": [
+      "VegetarianTopping",
+      "Cheese",
+      "Vegetable"
+    ]
+  },
+  "Class:VegetarianPizzaEquivalent2": {
+    "text": "An alternative to VegetarianPizzaEquiv1 that does not require a definition of VegetarianTopping. Perhaps more difficult to maintain. Not equivalent to VegetarianPizza",
+    "keywords": [
+      "VegetarianPizzaEquiv1",
+      "VegetarianTopping"
+    ]
+  },
+  "ObjectProperty:hasIngredient": {
+    "text": "NB Transitive - the ingredients of ingredients are ingredients of the whole",
+    "keywords": [
+      "Transitive Language"
+    ]
+  },
+  "ObjectProperty:isIngredientOf": {
+    "text": "The inverse property tree to hasIngredient - all subproperties and attributes of the properties should reflect those under hasIngredient.",
+    "keywords": [
+      "Inverse Property Tree",
+      "hasIngredient"
+    ]
+  },
+  "ObjectProperty:hasSpiciness": {
+    "text": "A property created to be used with the ValuePartition - Spiciness.",
+    "keywords": [
+      "ValuePartition",
+      "Spiciness"
+    ]
+  },
+  "ObjectProperty:hasTopping": {
+    "text": "Note that hasTopping is inverse functional because isToppingOf is functional",
+    "keywords": [
+      "HasTopping",
+      "inverse functional"
+    ]
+  },
+  "ObjectProperty:isToppingOf": {
+    "text": "Any given instance of topping should only be added to a single pizza (no cheap half-measures on our pizzas)",
+    "keywords": [
+      "Top topping",
+      "Pizza"
+    ]
+  }
+}
