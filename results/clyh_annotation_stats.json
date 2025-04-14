@@ -1,0 +1,54 @@
+{
+  "ontologie": "clyh",
+  "statistik": {
+    "klassen": 265,
+    "objekt_properties": 5,
+    "daten_properties": 0,
+    "annotation_properties": 4,
+    "individuals": 0
+  },
+  "Verteilung von Annotationen": [
+    {
+      "annotation": "label",
+      "gesamt": 272,
+      "typen": {
+        "Klasse": 265,
+        "Objekt-Property": 5,
+        "Annotation-Property": 2
+      },
+      "durchschnittliche_wortanzahl": 2.58
+    },
+    {
+      "annotation": "IAO_0000115",
+      "gesamt": 212,
+      "typen": {
+        "Klasse": 212
+      },
+      "durchschnittliche_wortanzahl": 10.19
+    },
+    {
+      "annotation": "IAO_0000301",
+      "gesamt": 7,
+      "typen": {
+        "Klasse": 7
+      },
+      "durchschnittliche_wortanzahl": 6.0
+    },
+    {
+      "annotation": "hasExactSynonym",
+      "gesamt": 17,
+      "typen": {
+        "Klasse": 17
+      },
+      "durchschnittliche_wortanzahl": 2.28
+    },
+    {
+      "annotation": "deprecated",
+      "gesamt": 3,
+      "typen": {
+        "Klasse": 3
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    }
+  ]
+}

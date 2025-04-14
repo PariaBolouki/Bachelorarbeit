@@ -1,0 +1,53 @@
+{
+  "ontologie": "3st",
+  "statistik": {
+    "klassen": 48,
+    "objekt_properties": 0,
+    "daten_properties": 0,
+    "annotation_properties": 4,
+    "individuals": 8484
+  },
+  "Verteilung von Annotationen": [
+    {
+      "annotation": "label",
+      "gesamt": 8532,
+      "typen": {
+        "Klasse": 48,
+        "Individuum": 8484
+      },
+      "durchschnittliche_wortanzahl": 3.4
+    },
+    {
+      "annotation": "instance_type_ID",
+      "gesamt": 8484,
+      "typen": {
+        "Individuum": 8484
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    },
+    {
+      "annotation": "polarity",
+      "gesamt": 8484,
+      "typen": {
+        "Individuum": 8484
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    },
+    {
+      "annotation": "relationship",
+      "gesamt": 8484,
+      "typen": {
+        "Individuum": 8484
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    },
+    {
+      "annotation": "term_unique_identifier",
+      "gesamt": 8484,
+      "typen": {
+        "Individuum": 8484
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    }
+  ]
+}

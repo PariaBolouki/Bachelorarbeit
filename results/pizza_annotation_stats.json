@@ -1,0 +1,77 @@
+{
+  "ontologie": "pizza",
+  "statistik": {
+    "klassen": 99,
+    "objekt_properties": 8,
+    "daten_properties": 0,
+    "annotation_properties": 8,
+    "individuals": 5
+  },
+  "Verteilung von Annotationen": [
+    {
+      "annotation": "seeAlso",
+      "gesamt": 1,
+      "typen": {
+        "Klasse": 1
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    },
+    {
+      "annotation": "label",
+      "gesamt": 99,
+      "typen": {
+        "Klasse": 99
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    },
+    {
+      "annotation": "prefLabel",
+      "gesamt": 97,
+      "typen": {
+        "Klasse": 97
+      },
+      "durchschnittliche_wortanzahl": 1.62
+    },
+    {
+      "annotation": "comment",
+      "gesamt": 16,
+      "typen": {
+        "Klasse": 11,
+        "Objekt-Property": 5
+      },
+      "durchschnittliche_wortanzahl": 29.31
+    },
+    {
+      "annotation": "altLabel",
+      "gesamt": 22,
+      "typen": {
+        "Klasse": 22
+      },
+      "durchschnittliche_wortanzahl": 1.95
+    },
+    {
+      "annotation": "definition",
+      "gesamt": 8,
+      "typen": {
+        "Klasse": 8
+      },
+      "durchschnittliche_wortanzahl": 18.12
+    },
+    {
+      "annotation": "domain",
+      "gesamt": 3,
+      "typen": {
+        "Objekt-Property": 3
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    },
+    {
+      "annotation": "range",
+      "gesamt": 4,
+      "typen": {
+        "Objekt-Property": 4
+      },
+      "durchschnittliche_wortanzahl": 1.0
+    }
+  ]
+}
