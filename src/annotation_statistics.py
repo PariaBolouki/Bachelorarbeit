@@ -34,7 +34,7 @@ all_elements = classes + obj_props + data_props + anno_props + individuals
 
 graph = onto.world.as_rdflib_graph()
 
-annotation_distribution = defaultdict(lambda: defaultdict(set))  # {annotation: {type: {elements}}}
+annotation_distribution = defaultdict(lambda: defaultdict(set)) 
 annotation_word_counts = defaultdict(list)
 
 def get_type(element):
