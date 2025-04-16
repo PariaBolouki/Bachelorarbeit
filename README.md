@@ -31,9 +31,9 @@ Um automatisch Keywords aus den textuellen Annotationen einer OWL-Ontologie im V
 
 Die Gene-Ontologie ist sehr umfangreich – abhängig von der Hardware kann die Keyword-Extraktion **mehrere Stunden** in Anspruch nehmen.
 
-Die Ergebnisse werden als `<ontologietitel>_keywords.json` im Ordner `results/` gespeichert.  
-
 Die Ontologie `3st.owl` enthält keine textuellen Annotationen, daher wurde für diese Ontologie keine keyword-Extraktion durchgeführt.
+
+Die Ergebnisse werden als `<ontologietitel>_keywords.json` im Ordner `results/` gespeichert.  
 
 ## Evaluation
 
