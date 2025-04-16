@@ -39,11 +39,11 @@ Die Ergebnisse werden als `<ontologietitel>_keywords.json` im Ordner `results/` 
 
 Der manuell erstellte Goldstandard befindet sich in `evaluation/aeo_goldstandard.json`
 
-Um automatisch Keywords aus den Definitionen derselben 50 Klassen der Ontologie `aeo.owl` zu extrahieren, kann das folgende Skript verwendet werden: python src/aeo_keywords_subset.py
+- Um automatisch Keywords aus den Definitionen derselben 50 Klassen der Ontologie `aeo.owl` zu extrahieren, kann das folgende Skript verwendet werden: python src/aeo_keywords_subset.py
 
 Die Ergebnisse werden als `aeo_keywords_subset.json` im Ordner `evaluation/` gespeichert.
 
-Um die automatisch extrahierten Keywords mit dem Goldstandard vergleichen, kann das folgende Skript ausgeführt werden: python src/evaluate_keywords.py
+- Um die automatisch extrahierten Keywords mit dem Goldstandard vergleichen, kann das folgende Skript ausgeführt werden: python src/evaluate_keywords.py
 
 Die Evaluationsergebnisse werden im CSV-Format als `evaluation_results.csv` im Ordner `evaluation/` gespeichert.
 
