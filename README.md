@@ -10,9 +10,6 @@ Um Symbolnamen aus einer OWL-Ontologie im Verzeichnis `ontologies/` zu extrahier
 
 Die Ergebnisse der Symbolnamen-Extraktion werden als `<ontologietitel>_symbolnames.json` im Ordner `results/` gespeichert.
 
-**Hinweis:** Zur Ausführung dieses Skripts wird das Python-Modul `owlready2` benötigt.  
-Dieses kann mit folgendem Befehl installiert werden: `pip install owlready2`
-
 ## Annotationen analysieren
 
 Um statistische Informationen über Annotation Properties aus einer OWL-Ontologie im Verzeichnis `ontologies/` zu extrahieren, kann das folgende Skript ausgeführt werden:
@@ -37,9 +34,6 @@ Die Gene-Ontologie ist sehr umfangreich – abhängig von der Hardware kann die 
 Die Ergebnisse werden als `<ontologietitel>_keywords.json` im Ordner `results/` gespeichert.  
 
 Die Ontologie `3st.owl` enthält keine textuellen Annotationen, daher wurde für diese Ontologie keine keyword-Extraktion durchgeführt.
-
-**Hinweis:** Zur Ausführung dieses Skripts werden die Python-Module `transformers` und `torch` benötigt. 
-Diese können mit folgendem Befehl installiert werden: `pip install transformers torch`
 
 ## Evaluation
 
