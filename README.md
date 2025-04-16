@@ -1,4 +1,4 @@
-# Extraktion und Analyse aus OWL-Ontologien
+# Extraktion und Analyse von OWL-Ontologien
 ## Symbolnamen extrahieren
 
 Um Symbolnamen aus einer OWL-Ontologie im Verzeichnis `ontologies/` zu extrahieren, kann das folgende Skript ausgeführt werden: 
