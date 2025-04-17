@@ -1,6 +1,6 @@
-# Extraktion und Analyse von OWL-Ontologien
+# Extraktion und Analyse von Symbolnamen in beschreibungslogischen Ontologien
 
-Für die Ausführung der Skripte müssen die Python-Module `owlready2`, `rdflib`, `transformers`, `torch` und `tabulate` installiert sein.
+Für die Ausführung der Skripte müssen die Python-Module `owlready2`, `rdflib`, `transformers`, `torch` und `tabulate` installiert sein (siehe requirments.txt). 
 
 ## Symbolnamen extrahieren
 
